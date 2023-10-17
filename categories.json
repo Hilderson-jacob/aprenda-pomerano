@@ -1,0 +1,3106 @@
+[
+  {
+    "categoria": "Cotidiano",
+    "detalhes": {
+      "imagem": "1_comum.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Cotidiano",
+          "audios": [
+            {
+              "PORTUGUES": "SIM",
+              "POMERANO": "JÅ",
+              "NOME_AUDIO": "01_ja"
+            },
+            {
+              "PORTUGUES": "NÃO",
+              "POMERANO": "NË",
+              "NOME_AUDIO": "02_nei"
+            },
+            {
+              "PORTUGUES": "OBRIGADO",
+              "POMERANO": "DANKE SCHÖÖN",
+              "NOME_AUDIO": "03_dankeschoin"
+            },
+            {
+              "PORTUGUES": "POR FAVOR",
+              "POMERANO": "TAUM GEFALE",
+              "NOME_AUDIO": "04_taum_gefale"
+            },
+            {
+              "PORTUGUES": "NÃO HÁ PROBLEMA",
+              "POMERANO": "DAT IS KAIR PROBLEM",
+              "NOME_AUDIO": "05_is_kair_problem"
+            },
+            {
+              "PORTUGUES": "FAZ FAVOR",
+              "POMERANO": "MÅK TAUM GEFALE",
+              "NOME_AUDIO": "06_mak_taum_gefale"
+            },
+            {
+              "PORTUGUES": "DESCULPE",
+              "POMERANO": "FORGEEW MIJ",
+              "NOME_AUDIO": "07_forgeew_mij"
+            },
+            {
+              "PORTUGUES": "COM LICENÇA, POSSO ENTRAR?",
+              "POMERANO": "KAN IK RINER KÅME?",
+              "NOME_AUDIO": "08_kan_ik_riner_koome"
+            },
+            {
+              "PORTUGUES": "SEM PROBLEMA ",
+              "POMERANO": "KAIR PROBLEM",
+              "NOME_AUDIO": "09_kair_problem"
+            },
+            {
+              "PORTUGUES": "EU NÃO SEI",
+              "POMERANO": "IK WAIT NI",
+              "NOME_AUDIO": "10_ik_wait_ni"
+            },
+            {
+              "PORTUGUES": "VOCÊ ME ENTENDE?",
+              "POMERANO": "FORSTÄIST DUU MIJ?",
+              "NOME_AUDIO": "11_forstaist_duu_mij"
+            },
+            {
+              "PORTUGUES": "EU ENTENDO",
+              "POMERANO": "IK  FORSTÅ",
+              "NOME_AUDIO": "12_ik_forsta"
+            },
+            {
+              "PORTUGUES": "EU NÃO ENTENDO",
+              "POMERANO": "IK FORSTÅ NI",
+              "NOME_AUDIO": "13_ik_forsta_ni"
+            },
+            {
+              "PORTUGUES": "DE NADA",
+              "POMERANO": "DÅRFOIR NI",
+              "NOME_AUDIO": "14_darfoir_ni"
+            },
+            {
+              "PORTUGUES": "O QUÊ?",
+              "POMERANO": "WAT?",
+              "NOME_AUDIO": "15_wat"
+            },
+            {
+              "PORTUGUES": "QUAL?",
+              "POMERANO": "WAT FON?",
+              "NOME_AUDIO": "16_wat_fon"
+            },
+            {
+              "PORTUGUES": "ONDE?",
+              "POMERANO": "WOO?",
+              "NOME_AUDIO": "17_woo"
+            },
+            {
+              "PORTUGUES": "QUANTO?",
+              "POMERANO": "WOFEEL",
+              "NOME_AUDIO": "18_woo_feel"
+            },
+            {
+              "PORTUGUES": "EM QUE?",
+              "POMERANO": "WOAN",
+              "NOME_AUDIO": "19_woan"
+            },
+            {
+              "PORTUGUES": "QUANDO?",
+              "POMERANO": "WONAIR",
+              "NOME_AUDIO": "20_wonair"
+            },
+            {
+              "PORTUGUES": "DE QUE?",
+              "POMERANO": "WOFON",
+              "NOME_AUDIO": "21_wofon"
+            },
+            {
+              "PORTUGUES": "PARA QUE?",
+              "POMERANO": "WOFOIR",
+              "NOME_AUDIO": "22_wofoir"
+            },
+            {
+              "PORTUGUES": "PARA ONDE?",
+              "POMERANO": "WOHEN",
+              "NOME_AUDIO": "23_wohen"
+            },
+            {
+              "PORTUGUES": "DE ONDE?",
+              "POMERANO": "WOHEER",
+              "NOME_AUDIO": "24_woheer"
+            },
+            {
+              "PORTUGUES": "PELO QUE?",
+              "POMERANO": "WORÜM",
+              "NOME_AUDIO": "25_worum"
+            },
+            {
+              "PORTUGUES": "PARA QUÊ?",
+              "POMERANO": "WOTAU",
+              "NOME_AUDIO": "26_wotau"
+            },
+            {
+              "PORTUGUES": "SOBRE QUE?",
+              "POMERANO": "WOUP",
+              "NOME_AUDIO": "27_woup"
+            },
+            {
+              "PORTUGUES": "DENTRO DE QUE?",
+              "POMERANO": "WOIN",
+              "NOME_AUDIO": "28_woin"
+            },
+            {
+              "PORTUGUES": "POR QUE MOTIVO?",
+              "POMERANO": "WOWEEGEN",
+              "NOME_AUDIO": "29_woweegen"
+            },
+            {
+              "PORTUGUES": "SOU MUITO GRATO A VOCÊ",
+              "POMERANO": "IK BÜN DIJ SËR DANKBÅR",
+              "NOME_AUDIO": "30_IK_BÜN_DIJ_SËR_DANKBÅR"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Saudações",
+    "detalhes": {
+      "imagem": "2_saudacoes.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Saudações",
+          "audios": [
+            {
+              "PORTUGUES": "OLÁ!",
+              "POMERANO": "HOP!",
+              "NOME_AUDIO": "01_ops"
+            },
+            {
+              "PORTUGUES": "MUITO PRAZER",
+              "POMERANO": "GAUD DIJ KENELËRE",
+              "NOME_AUDIO": "02_gaud_dij_keneleire"
+            },
+            {
+              "PORTUGUES": "PRAZER EM CONHECER VOCÊ TAMBÉM",
+              "POMERANO": "IS UK GAUD DIJ KENELËRE",
+              "NOME_AUDIO": "03_is_uk_gaud_dij_keneleire"
+            },
+            {
+              "PORTUGUES": "QUAL É O SEU NOME?",
+              "POMERANO": "WOO IS DIJ NÅME?",
+              "NOME_AUDIO": "04_woo_is_dij_name"
+            },
+            {
+              "PORTUGUES": "O MEU NOME É",
+              "POMERANO": "MIJ NÅME IS...",
+              "NOME_AUDIO": "05_mij_name_is"
+            },
+            {
+              "PORTUGUES": "COMO ESTÁ?",
+              "POMERANO": "WOO GÄIT?",
+              "NOME_AUDIO": "06_woo_gait"
+            },
+            {
+              "PORTUGUES": "EU ESTOU BEM.",
+              "POMERANO": "MIJ GÄIT DAT GAUD.",
+              "NOME_AUDIO": "7_MIJ_GÄIT_DAT_GAUD"
+            },
+            {
+              "PORTUGUES": "EU NÃO ESTOU BEM",
+              "POMERANO": "MIJ GÄIT DAT NI GAUD.",
+              "NOME_AUDIO": "8_MIJ_GÄIT_DAT_NI_GAUD"
+            },
+            {
+              "PORTUGUES": "E VOCÊ?",
+              "POMERANO": "UN DUU?",
+              "NOME_AUDIO": "09_un_duu"
+            },
+            {
+              "PORTUGUES": "QUANTOS ANOS VOCÊ TEM?",
+              "POMERANO": "WOO ULD  BÜST DUU?",
+              "NOME_AUDIO": "10_WOO_ULD_BÜST_DUU"
+            },
+            {
+              "PORTUGUES": "TENHO ... ANOS",
+              "POMERANO": "IK BÜN... JÅRE",
+              "NOME_AUDIO": "11_ik_bun_jare"
+            },
+            {
+              "PORTUGUES": "DE ONDE VOCÊ É?",
+              "POMERANO": "FON WOO BÜST DUU?",
+              "NOME_AUDIO": "12_fon_woo_bust_duu"
+            },
+            {
+              "PORTUGUES": "SOU...",
+              "POMERANO": "IK BÜN FON...",
+              "NOME_AUDIO": "13_ik_bun_fon"
+            },
+            {
+              "PORTUGUES": "ONDE VOCÊ MORA?",
+              "POMERANO": "WOO WOONST DUU?",
+              "NOME_AUDIO": "14_woo_woonst_duu"
+            },
+            {
+              "PORTUGUES": "EU MORO EM...",
+              "POMERANO": "IK WÅN IN...",
+              "NOME_AUDIO": "15_ik_woon_in"
+            },
+            {
+              "PORTUGUES": "VOCÊ  ESTÁ ATAREFADO ?",
+              "POMERANO": "HÄST DUU FEEL FOIR ?",
+              "NOME_AUDIO": "16_hast_duu_feel_foir"
+            },
+            {
+              "PORTUGUES": "AONDE VOCÊ ESTA INDO?",
+              "POMERANO": "WOO GÄIST DUU HEN?",
+              "NOME_AUDIO": "17_woo_gaist_duu_hen"
+            },
+            {
+              "PORTUGUES": "ATÉ LOGO",
+              "POMERANO": "BET NÅHER",
+              "NOME_AUDIO": "18_bet_naher"
+            },
+            {
+              "PORTUGUES": "ATÉ AMANHA",
+              "POMERANO": "BET MORGEN",
+              "NOME_AUDIO": "19_bet_morgen"
+            },
+            {
+              "PORTUGUES": "BOA SORTE",
+              "POMERANO": "GAUR GLÜK",
+              "NOME_AUDIO": "20_gaur_gluk"
+            },
+            {
+              "PORTUGUES": "TOME CUIDADO",
+              "POMERANO": "PASS UP",
+              "NOME_AUDIO": "21_pass_up"
+            },
+            {
+              "PORTUGUES": "PARABÉNS",
+              "POMERANO": "GLÜKWUNSCH",
+              "NOME_AUDIO": "22_glukwunsch"
+            },
+            {
+              "PORTUGUES": "BOM DIA",
+              "POMERANO": "GUN MORGEN",
+              "NOME_AUDIO": "23_gun_morgen"
+            },
+            {
+              "PORTUGUES": "BOA TARDE",
+              "POMERANO": "GUN DAG",
+              "NOME_AUDIO": "24_gun_dag"
+            },
+            {
+              "PORTUGUES": "BOA NOITE (AO CHEGAR)",
+              "POMERANO": "GUN ÅWEND",
+              "NOME_AUDIO": "25_gun_awend"
+            },
+            {
+              "PORTUGUES": "BOA NOITE (AO SAIR)",
+              "POMERANO": "GUN NACHT",
+              "NOME_AUDIO": "26_gun_nacht"
+            },
+            {
+              "PORTUGUES": "FELIZ ANIVERSÁRIO",
+              "POMERANO": "FRÖÖLIG  GEBURTSDAG",
+              "NOME_AUDIO": "27_froilig_geburtsdag"
+            },
+            {
+              "PORTUGUES": "FELIZ ANO NOVO",
+              "POMERANO": "FRÖÖLIG NIJG JÅR",
+              "NOME_AUDIO": "28_froilig_nij_jar"
+            },
+            {
+              "PORTUGUES": "FELIZ PÁSCOA",
+              "POMERANO": "FRÖÖLIG OOSTERFEST",
+              "NOME_AUDIO": "29_froilig_ousterfest"
+            },
+            {
+              "PORTUGUES": "FELIZ NATAL",
+              "POMERANO": "FRÖÖLIG WIJNACHTE",
+              "NOME_AUDIO": "30_froilig_wijnachte"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Relacionamento",
+    "detalhes": {
+      "imagem": "3_romance.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Relacionamento",
+          "audios": [
+            {
+              "PORTUGUES": "POSSO SENTAR-ME AQUI?",
+              "POMERANO": "KAN IK MIJ HIJR HENSETE?",
+              "NOME_AUDIO": "01_kan_ik_mij_hijr_hensete"
+            },
+            {
+              "PORTUGUES": "POSSO OFERECER-LHE UMA BEBIDA?",
+              "POMERANO": "KAN IK DIJ AIR GEDRÄNK  ANBAIRE?",
+              "NOME_AUDIO": "02_kan_ik_dij_air_gedrank_anbaire"
+            },
+            {
+              "PORTUGUES": "ADORAVA IR",
+              "POMERANO": "IK DÄIR GËRN HENGÅE",
+              "NOME_AUDIO": "3_IK_DÄIR_GËRN_HENGÅE"
+            },
+            {
+              "PORTUGUES": "NÃO, OBRIGADO",
+              "POMERANO": "NË, DANKE SCHÖÖN",
+              "NOME_AUDIO": "4_NË_DANKE_SCHÖÖN"
+            },
+            {
+              "PORTUGUES": "NÃO ESTOU INTERESSADO",
+              "POMERANO": "IK BÜN NI INTERESSIJRT",
+              "NOME_AUDIO": "05_ik_bun_ni_interessijrt"
+            },
+            {
+              "PORTUGUES": "TENHO IMENSO PRAZER",
+              "POMERANO": "IK HÄW GROOT LUST",
+              "NOME_AUDIO": "6_IK_HÄW_GROOT_LUST"
+            },
+            {
+              "PORTUGUES": "DEIXA-ME",
+              "POMERANO": "LÅT MIJ",
+              "NOME_AUDIO": "07_lat_mij"
+            },
+            {
+              "PORTUGUES": "VOCÊ É LINDA",
+              "POMERANO": "DUU BÜST SËR HÜBSCH",
+              "NOME_AUDIO": "08_duu_bust_seir_hubsch"
+            },
+            {
+              "PORTUGUES": "VOCÊ LINDO",
+              "POMERANO": "DUU BÜST SËR FAIN",
+              "NOME_AUDIO": "09_duu_bust_seir_fain"
+            },
+            {
+              "PORTUGUES": "VOCÊ É ESPECIAL.",
+              "POMERANO": "DUU BÜST SPECIAL",
+              "NOME_AUDIO": "10_duu_bust_special"
+            },
+            {
+              "PORTUGUES": "VOCÊ É ATRAENTE",
+              "POMERANO": "DUU BÜST SËR ATRAKTIV",
+              "NOME_AUDIO": "11_duu_bust_seir_atraktiv"
+            },
+            {
+              "PORTUGUES": "VOCÊ TEM MUITO CHARME",
+              "POMERANO": "DUU HÄST FEELE CHARM",
+              "NOME_AUDIO": "12_duu_hast_feele_charm"
+            },
+            {
+              "PORTUGUES": "EU SINTO ALGO POR VOCÊ.",
+              "POMERANO": "IK FORNEM IRGEND WAT OIWER DIJ",
+              "NOME_AUDIO": "13_ik_fornem_irgend_wat_oiwer_dij"
+            },
+            {
+              "PORTUGUES": "AMO-TE",
+              "POMERANO": "IK LIJB DIJ",
+              "NOME_AUDIO": "14_ik_lijb_dij"
+            },
+            {
+              "PORTUGUES": "POSSO DAR-TE UM BEIJO?",
+              "POMERANO": "KAN IK DIJ AINE PUSS GEEWE?",
+              "NOME_AUDIO": "15_kan_ik_dij_aine_puss_geewe"
+            },
+            {
+              "PORTUGUES": "VOCÊ TEM NAMORADO?",
+              "POMERANO": "HÄST DUU AINE BRUUDMAN?",
+              "NOME_AUDIO": "16_hast_duu_aine_bruudman"
+            },
+            {
+              "PORTUGUES": "VOCÊ TEM NAMORADA?",
+              "POMERANO": "HÄST DUU AIN BRUUD?",
+              "NOME_AUDIO": "17_hast_duu_ain_bruud"
+            },
+            {
+              "PORTUGUES": "VOCÊ TEM EMAIL?",
+              "POMERANO": "HÄST DUU E-MAIL?",
+              "NOME_AUDIO": "18_hast_duu_e_mail"
+            },
+            {
+              "PORTUGUES": "PODES DAR-ME O TEU NÚMERO DE TELEFONE?",
+              "POMERANO": "KANST DUU MIJ DIJN TELEFONNUMER GEEWE?",
+              "NOME_AUDIO": "19_kanst_duu_mij_dijn_telefonnumer_geewe"
+            },
+            {
+              "PORTUGUES": "É CASADO?",
+              "POMERANO": "BÜST DUU FORFRIJGT?",
+              "NOME_AUDIO": "20_bust_duu_forfrijgt"
+            },
+            {
+              "PORTUGUES": "SOU....",
+              "POMERANO": "IK BÜN...",
+              "NOME_AUDIO": "21_ik_bun"
+            },
+            {
+              "PORTUGUES": "SOLTEIRO",
+              "POMERANO": "LERG UN   LOUS / LEDIG",
+              "NOME_AUDIO": "22_lerg_un_lous_ledig"
+            },
+            {
+              "PORTUGUES": "COMPROMETIDO (A)",
+              "POMERANO": "NI ALAIN (E)",
+              "NOME_AUDIO": "23_ni_alain"
+            },
+            {
+              "PORTUGUES": "CASADO",
+              "POMERANO": "FORFRIJCHT",
+              "NOME_AUDIO": "24_forfrijcht"
+            },
+            {
+              "PORTUGUES": "DIVORCIADO",
+              "POMERANO": "UUTANANER",
+              "NOME_AUDIO": "25_uutananer"
+            },
+            {
+              "PORTUGUES": "VIÚVO",
+              "POMERANO": "WITKEIRL",
+              "NOME_AUDIO": "26_witkeirl"
+            },
+            {
+              "PORTUGUES": "VIÚVA",
+              "POMERANO": "WITFRUUG",
+              "NOME_AUDIO": "27_witfruug"
+            },
+            {
+              "PORTUGUES": "POSSO TE VISITAR?",
+              "POMERANO": "KAN IK DIJ BESUIKE?",
+              "NOME_AUDIO": "28_KAN_IK_DIJ_BESUIKE"
+            },
+            {
+              "PORTUGUES": "QUER CASAR COMIGO?",
+              "POMERANO": "WILST DUU MIT MIJ FRIJGE?",
+              "NOME_AUDIO": "29_WILST_DUU_MIT_MIJ_FRIJGE"
+            },
+            {
+              "PORTUGUES": "GOSTO MUITO DE VOCÊ",
+              "POMERANO": "IK KAN DIJ SËR LIJRE",
+              "NOME_AUDIO": "30_IK_KAN_DIJ_SËR_LIJRE"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Alimentação",
+    "detalhes": {
+      "imagem": "4_comer.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Alimentação",
+          "audios": [
+            {
+              "PORTUGUES": "PODE-ME RECOMENDAR UM RESTAURANTE?",
+              "POMERANO": "KANST DUU MIJ AINE RESTAURANT FOIRSTEELE?",
+              "NOME_AUDIO": "01_kanst_duu_mij_aine_restaurant_foirsteele"
+            },
+            {
+              "PORTUGUES": "UMA MESA PARA DOIS, POR FAVOR",
+              "POMERANO": "AINE DISCH FOR TWAI,TAUM GEFALE",
+              "NOME_AUDIO": "02_aine_disch_for_twai_taum_gefale"
+            },
+            {
+              "PORTUGUES": "EU GOSTARIA DE UMA MESA PERTO DA JANELA",
+              "POMERANO": "IK HAR GËRN AINE DISCH DICHT BIJNE LUUK",
+              "NOME_AUDIO": "03_ik_har_geirn_aine_disch_dich_bijne_luuk"
+            },
+            {
+              "PORTUGUES": "POSSO VER O MENU, POR FAVOR?",
+              "POMERANO": "KAN IK DER MENU SAIE,TAUM GEFALE?",
+              "NOME_AUDIO": "04_kan_ik_der_menu_saie_taum_gefale"
+            },
+            {
+              "PORTUGUES": "O QUE É QUE RECOMENDA?",
+              "POMERANO": "WAT REKOMENDIJRTST DUU?",
+              "NOME_AUDIO": "05_wat_rekomendijrst_duu"
+            },
+            {
+              "PORTUGUES": "EU COMO O QUE VOCÊ PEDIR",
+              "POMERANO": "IK EET WAT DUU FORLANGE DÄIST",
+              "NOME_AUDIO": "06_ik_eet_wat_duu_forlange_daist"
+            },
+            {
+              "PORTUGUES": "O QUE É ISTO?",
+              "POMERANO": "WAT IS DIT?",
+              "NOME_AUDIO": "07_wat_is_dit"
+            },
+            {
+              "PORTUGUES": "POSSO PEDIR UM PRATO DAQUELE?",
+              "POMERANO": "KAN IK SOONE TELER FORLANGE?",
+              "NOME_AUDIO": "08_kan_ik_soone_teeler_forlange"
+            },
+            {
+              "PORTUGUES": "EU QUERIA...",
+              "POMERANO": "IK WUL...",
+              "NOME_AUDIO": "09_ik_wul"
+            },
+            {
+              "PORTUGUES": "POSSO BEBER UM COPO DE ÁGUA?",
+              "POMERANO": "KAN IK AIR GLAS WÅTER DRINKE?",
+              "NOME_AUDIO": "10_kan_ik_air_glas_water_drinke"
+            },
+            {
+              "PORTUGUES": "BOM APETITE!",
+              "POMERANO": "GAURE APETIT!",
+              "NOME_AUDIO": "11_gaure_apetit"
+            },
+            {
+              "PORTUGUES": "A CONTA, POR FAVOR!",
+              "POMERANO": "DAI REEKEN TAUM GEFALE!",
+              "NOME_AUDIO": "12_dai_reeken_taum_gefale"
+            },
+            {
+              "PORTUGUES": "POSSO PAGAR COM CHEQUE?",
+              "POMERANO": "KAN IK MIT CHEK BETÅLE?",
+              "NOME_AUDIO": "13_kan_ik_mit_chek_betale"
+            },
+            {
+              "PORTUGUES": "POSSO PAGAR COM CARTÃO DE CRÉDITO?",
+              "POMERANO": "KAN IK MIT KREDITKARTON BETÅLE?",
+              "NOME_AUDIO": "14_kan_ik_mit_kreditkarton_betale"
+            },
+            {
+              "PORTUGUES": "ACEITAM SÓ DINHEIRO EM ESPÉCIE?",
+              "POMERANO": "NEEME JIJ BLOUS BÅRGILD AN?",
+              "NOME_AUDIO": "15_neeme_jij_blous_bargild_an"
+            },
+            {
+              "PORTUGUES": "POUCA  COMIDA",
+              "POMERANO": "WENIG EETEN",
+              "NOME_AUDIO": "16_wenig_eeten"
+            },
+            {
+              "PORTUGUES": "ALMOÇO",
+              "POMERANO": "MIRDAG/FRÜÜSTÜK",
+              "NOME_AUDIO": "17_fruustuk"
+            },
+            {
+              "PORTUGUES": "ALMOÇAR",
+              "POMERANO": "MIRDAGEETEN",
+              "NOME_AUDIO": "18_mirdageeten"
+            },
+            {
+              "PORTUGUES": "JANTA",
+              "POMERANO": "ÅWENDBROUD",
+              "NOME_AUDIO": "19_awendbroud"
+            },
+            {
+              "PORTUGUES": "SALADA",
+              "POMERANO": "SALAD",
+              "NOME_AUDIO": "20_salad"
+            },
+            {
+              "PORTUGUES": "MACARRÃO",
+              "POMERANO": "NUUDEL",
+              "NOME_AUDIO": "21_nuudel"
+            },
+            {
+              "PORTUGUES": "ARROZ",
+              "POMERANO": "RIJS",
+              "NOME_AUDIO": "22_rijs"
+            },
+            {
+              "PORTUGUES": "OVOS",
+              "POMERANO": "ËGER",
+              "NOME_AUDIO": "23_eiger"
+            },
+            {
+              "PORTUGUES": "HAMBURGUER",
+              "POMERANO": "HAMBURGER",
+              "NOME_AUDIO": "24_hamburger"
+            },
+            {
+              "PORTUGUES": "LEGUMES",
+              "POMERANO": "GRUINWEESEND",
+              "NOME_AUDIO": "25_gruinweesend"
+            },
+            {
+              "PORTUGUES": "GARRAFA ",
+              "POMERANO": "FLASCH",
+              "NOME_AUDIO": "26_flasch"
+            },
+            {
+              "PORTUGUES": "TIGELA",
+              "POMERANO": "KUM",
+              "NOME_AUDIO": "27_kum"
+            },
+            {
+              "PORTUGUES": "COPO",
+              "POMERANO": "GLAS",
+              "NOME_AUDIO": "28_glas"
+            },
+            {
+              "PORTUGUES": "PRATO",
+              "POMERANO": "TELER",
+              "NOME_AUDIO": "29_teler"
+            },
+            {
+              "PORTUGUES": "GARFO",
+              "POMERANO": "GÅBEL",
+              "NOME_AUDIO": "30_gabel"
+            },
+            {
+              "PORTUGUES": "FACA",
+              "POMERANO": "METSER",
+              "NOME_AUDIO": "31_metser"
+            },
+            {
+              "PORTUGUES": "COLHER",
+              "POMERANO": "LEEPEL",
+              "NOME_AUDIO": "32_leepel"
+            },
+            {
+              "PORTUGUES": "CARNE DE BOI",
+              "POMERANO": "BULEFLAISCH",
+              "NOME_AUDIO": "33_buleflaisch"
+            },
+            {
+              "PORTUGUES": "BIFE",
+              "POMERANO": "BIJF",
+              "NOME_AUDIO": "34_bijf"
+            },
+            {
+              "PORTUGUES": "CARNE DE FRANGO",
+              "POMERANO": "HUINERFLAISCH",
+              "NOME_AUDIO": "35_huinerflaisch"
+            },
+            {
+              "PORTUGUES": "PATO",
+              "POMERANO": "AABEL",
+              "NOME_AUDIO": "36_aabel"
+            },
+            {
+              "PORTUGUES": "PATA",
+              "POMERANO": "EEND",
+              "NOME_AUDIO": "37_eend"
+            },
+            {
+              "PORTUGUES": "PATO ASSADO",
+              "POMERANO": "GEBRÅRTAABEL",
+              "NOME_AUDIO": "38_gebrart_aabel"
+            },
+            {
+              "PORTUGUES": "PRESUNTO",
+              "POMERANO": "SCHINKEFLAISCH",
+              "NOME_AUDIO": "39_SCHINKEFLAISCH"
+            },
+            {
+              "PORTUGUES": "CARNE DE CORDEIRO",
+              "POMERANO": "SCHÅPFLAISCH",
+              "NOME_AUDIO": "40_schapflaisch"
+            },
+            {
+              "PORTUGUES": "CARNE DE PORCO",
+              "POMERANO": "SWIJNFLAISCH",
+              "NOME_AUDIO": "41_swijnflaisch"
+            },
+            {
+              "PORTUGUES": "SALSICHA",
+              "POMERANO": "SALSIJCHE",
+              "NOME_AUDIO": "42_salsijche"
+            },
+            {
+              "PORTUGUES": "CARNE",
+              "POMERANO": "FLAISCH",
+              "NOME_AUDIO": "43_flaisch"
+            },
+            {
+              "PORTUGUES": "CARANGUEJO",
+              "POMERANO": "KRAP",
+              "NOME_AUDIO": "44_krap"
+            },
+            {
+              "PORTUGUES": "PEIXE",
+              "POMERANO": "FISCH",
+              "NOME_AUDIO": "45_fisch"
+            },
+            {
+              "PORTUGUES": "LAGOSTA",
+              "POMERANO": "LANGUST",
+              "NOME_AUDIO": "46_langust"
+            },
+            {
+              "PORTUGUES": "CAMARÃO",
+              "POMERANO": "FLUSSKRAP",
+              "NOME_AUDIO": "47_flusskrap"
+            },
+            {
+              "PORTUGUES": "SALMÃO",
+              "POMERANO": "SALMON",
+              "NOME_AUDIO": "48_salmon"
+            },
+            {
+              "PORTUGUES": "CAFÉ",
+              "POMERANO": "KAFE",
+              "NOME_AUDIO": "49_kafe"
+            },
+            {
+              "PORTUGUES": "LEITE",
+              "POMERANO": "MELK",
+              "NOME_AUDIO": "50_melk"
+            },
+            {
+              "PORTUGUES": "BOLO",
+              "POMERANO": "KUUCHEN",
+              "NOME_AUDIO": "51_kuuchen"
+            },
+            {
+              "PORTUGUES": "SOBREMESA",
+              "POMERANO": "NÅEETEN",
+              "NOME_AUDIO": "52_naeeten"
+            },
+            {
+              "PORTUGUES": "BISCOITO",
+              "POMERANO": "BISKUIT",
+              "NOME_AUDIO": "53_biskuit"
+            },
+            {
+              "PORTUGUES": "SOPA",
+              "POMERANO": "SUP",
+              "NOME_AUDIO": "54_sup"
+            },
+            {
+              "PORTUGUES": "MEL",
+              "POMERANO": "HOINIG",
+              "NOME_AUDIO": "55_hoinig"
+            },
+            {
+              "PORTUGUES": "REFRIGERANTE",
+              "POMERANO": "REFRIGERANT",
+              "NOME_AUDIO": "56_refrigerant"
+            },
+            {
+              "PORTUGUES": "SUCO ",
+              "POMERANO": "SAFT",
+              "NOME_AUDIO": "57_saft"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Emergência",
+    "detalhes": {
+      "imagem": "5_emergencia.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Emergência",
+          "audios": [
+            {
+              "PORTUGUES": "SOCORRO",
+              "POMERANO": "HÜLP",
+              "NOME_AUDIO": "1_hulp"
+            },
+            {
+              "PORTUGUES": "FOGO",
+              "POMERANO": "FÜÜR",
+              "NOME_AUDIO": "2_fuur"
+            },
+            {
+              "PORTUGUES": "LADRÃO",
+              "POMERANO": "SPITSBUUB",
+              "NOME_AUDIO": "3_spitsbuub"
+            },
+            {
+              "PORTUGUES": "STOP",
+              "POMERANO": "STOP",
+              "NOME_AUDIO": "4_stop"
+            },
+            {
+              "PORTUGUES": "VÁ-SE EMBORA!",
+              "POMERANO": "GÅ WEG!",
+              "NOME_AUDIO": "5_ga_weg"
+            },
+            {
+              "PORTUGUES": "CUIDADO",
+              "POMERANO": "PASS UP",
+              "NOME_AUDIO": "6_pass_up"
+            },
+            {
+              "PORTUGUES": "VOCÊ ESTA BEM?",
+              "POMERANO": "ALES GAUD MIT DIJ?",
+              "NOME_AUDIO": "7_ales_gaud_mit_dij"
+            },
+            {
+              "PORTUGUES": "CHAME UMA AMBULÂNCIA",
+              "POMERANO": "RAUP AIN AMBULANS",
+              "NOME_AUDIO": "8_raup_ain_ambulans"
+            },
+            {
+              "PORTUGUES": "CHAME UM MÉDICO",
+              "POMERANO": "RAUP AINE DOKTER",
+              "NOME_AUDIO": "9_raup_aine_dokter"
+            },
+            {
+              "PORTUGUES": "CHAME A POLICIA",
+              "POMERANO": "RAUP DAI POLISS",
+              "NOME_AUDIO": "10_raup_dai_poliss"
+            },
+            {
+              "PORTUGUES": "ESTOU PERDIDO",
+              "POMERANO": "IK BÜN FORBIJSTERT",
+              "NOME_AUDIO": "11_IK_BÜN_FORBIJSTERT"
+            },
+            {
+              "PORTUGUES": "EU PERDI A MINHA BOLSA",
+              "POMERANO": "IK HÄW MIJN TASCH FORLÅRE",
+              "NOME_AUDIO": "12_ik_haw_mijn_tasch_forlare"
+            },
+            {
+              "PORTUGUES": "EU PERDI O MEU PASSAPORTE",
+              "POMERANO": "IK  HÄW MIJNE RËSSCHIJN FORLÅRE",
+              "NOME_AUDIO": "13_IK_HÄW_MIJNE_RËSSCHIJN_FORLÅRE"
+            },
+            {
+              "PORTUGUES": "EU FUI ROUBADO",
+              "POMERANO": "IK BÜN BESTÅLE WOORE",
+              "NOME_AUDIO": "14_IK_BÜN_BESTÅLE_WOORE"
+            },
+            {
+              "PORTUGUES": "PODE AJUDAR-ME?",
+              "POMERANO": "KANST DUU MIJ HELPE?",
+              "NOME_AUDIO": "15_kanst_duu_mij_helpe"
+            },
+            {
+              "PORTUGUES": "ME AJUDE!",
+              "POMERANO": "HELP MIJ!",
+              "NOME_AUDIO": "16_HELP_MIJ!"
+            },
+            {
+              "PORTUGUES": "EU PRECISO DE AJUDA",
+              "POMERANO": "IK BRUUK HÜLP",
+              "NOME_AUDIO": "17_IK_BRUUK_HÜLP"
+            },
+            {
+              "PORTUGUES": "ONDE FICA O HOSPITAL?",
+              "POMERANO": "WOO BLIWT DAI HOSPITAL?",
+              "NOME_AUDIO": "18_WOO_BLIWT_DAI_HOSPITAL"
+            },
+            {
+              "PORTUGUES": "ONDE FICA A DELEGACIA?",
+              "POMERANO": "WOO BLIWT DAI DELEGACI?",
+              "NOME_AUDIO": "19_WOO_BLIWT_DAI_DELEGACI"
+            },
+            {
+              "PORTUGUES": "ESTÁS SENTINDO ALGO?",
+              "POMERANO": "IS DIJ WAT?",
+              "NOME_AUDIO": "20_IS_DIJ_WAT"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Compras",
+    "detalhes": {
+      "imagem": "6_compras.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Compras",
+          "audios": [
+            {
+              "PORTUGUES": "ONDE FICAM AS CASAS COMERCIAIS?",
+              "POMERANO": "WOO BLIJWE DAI GESCHÄFTHÜÜSER?",
+              "NOME_AUDIO": "01_woo_blijwe_dai_geschafhuuser"
+            },
+            {
+              "PORTUGUES": "QUANDO ABREM?",
+              "POMERANO": "WONAIR MÅKE DAI UP?",
+              "NOME_AUDIO": "02_wonair_make_dai_up"
+            },
+            {
+              "PORTUGUES": "AQUI TEM...",
+              "POMERANO": "SIN HIJR...",
+              "NOME_AUDIO": "03_sin_hijr"
+            },
+            {
+              "PORTUGUES": "QUERIA COMPRAR...",
+              "POMERANO": "IK WUL KÖÖPE",
+              "NOME_AUDIO": "04_ik_wul_koipe"
+            },
+            {
+              "PORTUGUES": "POSSO VER?",
+              "POMERANO": "KAN IK  DAT SAIE?",
+              "NOME_AUDIO": "5_KAN_IK_DAT_SAIE"
+            },
+            {
+              "PORTUGUES": "QUAIS AS CORES QUE VOCÊ TEM?",
+              "POMERANO": "WAT FON FARWE HÄST DUU?",
+              "NOME_AUDIO": "06_watfon_farwe_hast_duu"
+            },
+            {
+              "PORTUGUES": "EU POSSO PROVAR?",
+              "POMERANO": "KAN IK ANPASSE?",
+              "NOME_AUDIO": "7_KAN_IK_ANPASSE"
+            },
+            {
+              "PORTUGUES": "ONDE É O PROVADOR?",
+              "POMERANO": "WOO IS DAI PRUIWKÅMER?",
+              "NOME_AUDIO": "08_woo_is_dai_pruiwkamer"
+            },
+            {
+              "PORTUGUES": "VESTE BEM",
+              "POMERANO": "PAST GAUD",
+              "NOME_AUDIO": "09_past_gaud"
+            },
+            {
+              "PORTUGUES": "NÃO CABE",
+              "POMERANO": "PAST NI",
+              "NOME_AUDIO": "10_past_ni"
+            },
+            {
+              "PORTUGUES": "EU QUERO COMPRAR ESTE",
+              "POMERANO": "IK WIL DIT KÖÖPE",
+              "NOME_AUDIO": "11_IK_WIL_DIT_KÖÖPE"
+            },
+            {
+              "PORTUGUES": "QUANTO É?",
+              "POMERANO": "WAT KOST DAT?",
+              "NOME_AUDIO": "12_wat_kost_dat"
+            },
+            {
+              "PORTUGUES": "PODE ESCREVER O PREÇO?",
+              "POMERANO": "KANST DUU DE PRAIS SRIJWE?",
+              "NOME_AUDIO": "13_kanst_duu_der_prais_srijwe"
+            },
+            {
+              "PORTUGUES": "É MUITO CARO",
+              "POMERANO": "DAT IS SËR DÜÜR",
+              "NOME_AUDIO": "14_dat_is_seir_duur"
+            },
+            {
+              "PORTUGUES": "PODE ME DAR UM DESCONTO?",
+              "POMERANO": "KANST DUU MIJ AINE DISKONT GEEWE?",
+              "NOME_AUDIO": "15_kanst_duu_mij_aine_diskont_geewe"
+            },
+            {
+              "PORTUGUES": "PODE ME DAR UMA SACOLA, POR FAVOR?",
+              "POMERANO": "KANST DUU MIJ AINE SAK GEEWE,TAUM GEFALE?",
+              "NOME_AUDIO": "16_kanst_duu_mij_aine_sak_geewe_taum_gefale"
+            },
+            {
+              "PORTUGUES": "VOCÊ TEM OUTRAS OPÇÕES?",
+              "POMERANO": "HÄST DUU ANDRER OPTIONE?",
+              "NOME_AUDIO": "17_hast_duu_andrer_optione"
+            },
+            {
+              "PORTUGUES": "VOCÊ PODE EMBRULHAR PARA MIM?",
+              "POMERANO": "KANST DUU MIJ DAT INWIKLE?",
+              "NOME_AUDIO": "18_kanst_duu_mij_dat_inwikle"
+            },
+            {
+              "PORTUGUES": "VOCÊ PODE EMBRULHAR COMO PRESENTE?",
+              "POMERANO": "KANST DUU DAT TAUM GESCHENK INWIKLE?",
+              "NOME_AUDIO": "19_kanst_duu_dat_taum_geschenk_inwikle"
+            },
+            {
+              "PORTUGUES": "UM RECIBO, POR FAVOR ",
+              "POMERANO": "AIN UPWIJSUNG, TAUM GEFALE",
+              "NOME_AUDIO": "20_AIN_UPWIJSUNG_TAUM_GEFALE"
+            },
+            {
+              "PORTUGUES": "EU POSSO PEGAR A NOTA FISCAL?",
+              "POMERANO": "KAN IK DAI FISKALNOT BEKÅME?",
+              "NOME_AUDIO": "21_kan_ik_dai_fiskalnot_bekoome"
+            },
+            {
+              "PORTUGUES": "QUERIA UM REEMBOLSO",
+              "POMERANO": "IK WIL TRÖÖGBETÅLT HÄWE",
+              "NOME_AUDIO": "22_ik_wil_troigbetalt_hawe"
+            },
+            {
+              "PORTUGUES": "ESTOU PRA VER.",
+              "POMERANO": "IK WIL AS SAIE",
+              "NOME_AUDIO": "23_ik_wil_as_saie"
+            },
+            {
+              "PORTUGUES": "COMPRAR",
+              "POMERANO": "KÖÖPE",
+              "NOME_AUDIO": "24_koipe"
+            },
+            {
+              "PORTUGUES": "VENDER",
+              "POMERANO": "FORKÖÖPE",
+              "NOME_AUDIO": "25_forkoipe"
+            },
+            {
+              "PORTUGUES": "PREÇO",
+              "POMERANO": "PRAIS",
+              "NOME_AUDIO": "26_prais"
+            },
+            {
+              "PORTUGUES": "DESCONTO",
+              "POMERANO": "DISKONT",
+              "NOME_AUDIO": "27_diskont"
+            },
+            {
+              "PORTUGUES": "DIAMANTE",
+              "POMERANO": "DIAMANT",
+              "NOME_AUDIO": "28_diamant"
+            },
+            {
+              "PORTUGUES": "TOALHA",
+              "POMERANO": "HANDDAUK",
+              "NOME_AUDIO": "29_handdauk"
+            },
+            {
+              "PORTUGUES": "BATOM",
+              "POMERANO": "LIPEFARW",
+              "NOME_AUDIO": "30_lipefarw"
+            },
+            {
+              "PORTUGUES": "MALA DE VIAGEM",
+              "POMERANO": "RËSTASCH",
+              "NOME_AUDIO": "31_reistasch"
+            },
+            {
+              "PORTUGUES": "BOLSA",
+              "POMERANO": "TASCH",
+              "NOME_AUDIO": "32_tasch"
+            },
+            {
+              "PORTUGUES": "CARTEIRA",
+              "POMERANO": "PORTMONË",
+              "NOME_AUDIO": "33_portmonai"
+            },
+            {
+              "PORTUGUES": "MAQUINA FOTOGRÁFICA",
+              "POMERANO": "AFNEEMSMASCHIJN",
+              "NOME_AUDIO": "34_afneemsmaschijn"
+            },
+            {
+              "PORTUGUES": "COMPUTADOR",
+              "POMERANO": "COMPUTATOR",
+              "NOME_AUDIO": "35_computator"
+            },
+            {
+              "PORTUGUES": "CELULAR",
+              "POMERANO": "CELULAR",
+              "NOME_AUDIO": "36_celular"
+            },
+            {
+              "PORTUGUES": "RELÓGIO DE PULSO",
+              "POMERANO": "ARMUUR",
+              "NOME_AUDIO": "37_armuur"
+            },
+            {
+              "PORTUGUES": "RELÓGIO",
+              "POMERANO": "KLOK",
+              "NOME_AUDIO": "38_klok"
+            },
+            {
+              "PORTUGUES": "PRESENTE",
+              "POMERANO": "GESCHENK",
+              "NOME_AUDIO": "39_geschenk"
+            },
+            {
+              "PORTUGUES": "CINTO",
+              "POMERANO": "RAIME",
+              "NOME_AUDIO": "40_raime"
+            },
+            {
+              "PORTUGUES": "BIQUÍNI",
+              "POMERANO": "BIKINI",
+              "NOME_AUDIO": "41_bikini"
+            },
+            {
+              "PORTUGUES": "BOTA",
+              "POMERANO": "STÄWEL",
+              "NOME_AUDIO": "42_stawel"
+            },
+            {
+              "PORTUGUES": "SUTIÃ",
+              "POMERANO": "TITELÜWKER",
+              "NOME_AUDIO": "43_titeluwker"
+            },
+            {
+              "PORTUGUES": "PULSEIRA",
+              "POMERANO": "ARMRING",
+              "NOME_AUDIO": "44_armring"
+            },
+            {
+              "PORTUGUES": "CASACO",
+              "POMERANO": "WINTERJAK",
+              "NOME_AUDIO": "45_winterjak"
+            },
+            {
+              "PORTUGUES": "OS BRINCOS",
+              "POMERANO": "DAI OORBUMELS",
+              "NOME_AUDIO": "46_dai_ourbumel"
+            },
+            {
+              "PORTUGUES": "ÓCULOS",
+              "POMERANO": "BRILE",
+              "NOME_AUDIO": "47_brile"
+            },
+            {
+              "PORTUGUES": "SAPATO FEMININO",
+              "POMERANO": "FRUUGESSCHAU",
+              "NOME_AUDIO": "48_fruugesschau"
+            },
+            {
+              "PORTUGUES": "JAQUETA DE COURO",
+              "POMERANO": "LEERERJAK",
+              "NOME_AUDIO": "49_leererjak"
+            },
+            {
+              "PORTUGUES": "JEANS",
+              "POMERANO": "JEANS",
+              "NOME_AUDIO": "50_jeans"
+            },
+            {
+              "PORTUGUES": "SAPATO",
+              "POMERANO": "SCHAU",
+              "NOME_AUDIO": "51_schau"
+            },
+            {
+              "PORTUGUES": "SANDÁLIA",
+              "POMERANO": "STRIPESCHAU",
+              "NOME_AUDIO": "52_stripeschau"
+            },
+            {
+              "PORTUGUES": "CHINELO",
+              "POMERANO": "SLAPE",
+              "NOME_AUDIO": "53_slape"
+            },
+            {
+              "PORTUGUES": "SAPATOS DE COURO",
+              "POMERANO": "LEERERSCHAU",
+              "NOME_AUDIO": "54_leererschau"
+            },
+            {
+              "PORTUGUES": "MINISSAIA",
+              "POMERANO": "KORTEROK",
+              "NOME_AUDIO": "55_korterok"
+            },
+            {
+              "PORTUGUES": "COLAR",
+              "POMERANO": "KEER",
+              "NOME_AUDIO": "56_keer"
+            },
+            {
+              "PORTUGUES": "CALÇAS",
+              "POMERANO": "HOOSE",
+              "NOME_AUDIO": "57_house"
+            },
+            {
+              "PORTUGUES": "ANEL",
+              "POMERANO": "FINGERRING",
+              "NOME_AUDIO": "58_fingerring"
+            },
+            {
+              "PORTUGUES": "CAMISA",
+              "POMERANO": "HEMD",
+              "NOME_AUDIO": "59_hemd"
+            },
+            {
+              "PORTUGUES": "SAPATOS",
+              "POMERANO": "SCHAU",
+              "NOME_AUDIO": "60_schau"
+            },
+            {
+              "PORTUGUES": "SAIA",
+              "POMERANO": "ROK",
+              "NOME_AUDIO": "61_rok"
+            },
+            {
+              "PORTUGUES": "MEIAS",
+              "POMERANO": "STRÜMP",
+              "NOME_AUDIO": "62_strump"
+            },
+            {
+              "PORTUGUES": "ÓCULOS DE SOL",
+              "POMERANO": "SÜNBRILE",
+              "NOME_AUDIO": "63_sunbrile"
+            },
+            {
+              "PORTUGUES": "GRAVATA",
+              "POMERANO": "KRAWAT",
+              "NOME_AUDIO": "64_krawat"
+            },
+            {
+              "PORTUGUES": "ROUPA INTIMA",
+              "POMERANO": "UUNERTÜÜG",
+              "NOME_AUDIO": "65_uunertuug"
+            },
+            {
+              "PORTUGUES": "ROUPAS",
+              "POMERANO": "TÜÜG",
+              "NOME_AUDIO": "66_tuug"
+            },
+            {
+              "PORTUGUES": "CHAPEU",
+              "POMERANO": "HAUD",
+              "NOME_AUDIO": "67_haud"
+            },
+            {
+              "PORTUGUES": "BONÉ",
+              "POMERANO": "MÜTS",
+              "NOME_AUDIO": "68_muts"
+            },
+            {
+              "PORTUGUES": "TOALHA DE BANHO",
+              "POMERANO": "BÅRHANDDAUK",
+              "NOME_AUDIO": "69_barhanddauk"
+            },
+            {
+              "PORTUGUES": "CAMISOLA",
+              "POMERANO": "SLÅPKLËD",
+              "NOME_AUDIO": "70_slapkleid"
+            },
+            {
+              "PORTUGUES": "BERMUDA",
+              "POMERANO": "KORTHOOS",
+              "NOME_AUDIO": "71_korthous"
+            },
+            {
+              "PORTUGUES": "VESTIDO",
+              "POMERANO": "KLËD",
+              "NOME_AUDIO": "72_kleid"
+            },
+            {
+              "PORTUGUES": "CUECA",
+              "POMERANO": "UNERHOOS",
+              "NOME_AUDIO": "73_unerhous"
+            },
+            {
+              "PORTUGUES": "CAMISETA",
+              "POMERANO": "UUNERHEMD",
+              "NOME_AUDIO": "74_uunerhemd"
+            },
+            {
+              "PORTUGUES": "ANÁGUA",
+              "POMERANO": "UUNERROK",
+              "NOME_AUDIO": "75_uunerrok"
+            },
+            {
+              "PORTUGUES": "SOBRETUDO DE COURO",
+              "POMERANO": "LEERERMANTEL",
+              "NOME_AUDIO": "76_leerermantel"
+            },
+            {
+              "PORTUGUES": "CAMISA DE MANGA LONGA",
+              "POMERANO": "LANGMOOCHIGHEMD",
+              "NOME_AUDIO": "77_LANGMOOCHIGHEMD"
+            },
+            {
+              "PORTUGUES": "CAMISA DE MANGA CURTA",
+              "POMERANO": "KORTMOOCHIGHEMD",
+              "NOME_AUDIO": "78_KORTMOOCHIGHEMD"
+            },
+            {
+              "PORTUGUES": "PAGAR",
+              "POMERANO": "BETÅLE",
+              "NOME_AUDIO": "79_BETÅLE"
+            },
+            {
+              "PORTUGUES": "EMPRESTADO",
+              "POMERANO": "BORGE",
+              "NOME_AUDIO": "80_BORGE"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Saúde",
+    "detalhes": {
+      "imagem": "7_saude.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Saúde",
+          "audios": [
+            {
+              "PORTUGUES": "ONDE FICA O HOSPITAL?",
+              "POMERANO": "WOO BLIWT DAT KRANKEHUUS?",
+              "NOME_AUDIO": "1_woo_bliwt_dat_krankehuus"
+            },
+            {
+              "PORTUGUES": "EU PRECISO DE UM MÉDICO",
+              "POMERANO": "IK BRUUK AINE DOKTER",
+              "NOME_AUDIO": "2_ik_bruuk_aine_dokter"
+            },
+            {
+              "PORTUGUES": "ESTOU DOENTE",
+              "POMERANO": "IK BÜN KRANK",
+              "NOME_AUDIO": "3_ik_bun_krank"
+            },
+            {
+              "PORTUGUES": "DOI-ME AQUI",
+              "POMERANO": "DÄIT MIJ HIJR WAI",
+              "NOME_AUDIO": "4_dait_mij_hijr_wai"
+            },
+            {
+              "PORTUGUES": "EU ESTOU COM TOSSE",
+              "POMERANO": "IK HÄW HAUSTE",
+              "NOME_AUDIO": "5_ik_haw_hauste"
+            },
+            {
+              "PORTUGUES": "EU ESTOU COM DIARREIA",
+              "POMERANO": "IK HÄW DOIRFAL",
+              "NOME_AUDIO": "6_ik_haw_doirfal"
+            },
+            {
+              "PORTUGUES": "TENHO FEBRE",
+              "POMERANO": "IK HÄW FEIWER",
+              "NOME_AUDIO": "7_ik_haw_feiwer"
+            },
+            {
+              "PORTUGUES": "EU TENHO  DOR DE CABEÇA",
+              "POMERANO": "IK HÄW KOPWAIDÅG",
+              "NOME_AUDIO": "8_ik_haw_kopwaidag"
+            },
+            {
+              "PORTUGUES": "TENHO DOR DE ESTÔMAGO",
+              "POMERANO": "IK HÄW MÅGEWAIDÅG",
+              "NOME_AUDIO": "9_ik_haw_magewaidag"
+            },
+            {
+              "PORTUGUES": "EU TENHO  VOMITADO",
+              "POMERANO": "IK HÄW KOTST",
+              "NOME_AUDIO": "10_ik_haw_kotst"
+            },
+            {
+              "PORTUGUES": "EU ESTOU RESFRIADO",
+              "POMERANO": "IK BÜN FORKÜLT",
+              "NOME_AUDIO": "11_ik_bun_forkult"
+            },
+            {
+              "PORTUGUES": "EU TENHO DIFICULDADE DE RESPIRAR",
+              "POMERANO": "IK HÄW DIFIKULTEIT TAUM LUFT HÅLEN",
+              "NOME_AUDIO": "12_ik_haw_difikulteit_taum_luft_halen"
+            },
+            {
+              "PORTUGUES": "EU ESTOU ME SENTINDO TONTO",
+              "POMERANO": "IK BEFIJN MIJ DÜÜSCH",
+              "NOME_AUDIO": "13_ik_befijn_mij_duusch"
+            },
+            {
+              "PORTUGUES": "SOU...",
+              "POMERANO": "IK BÜN...",
+              "NOME_AUDIO": "14_ik_bun"
+            },
+            {
+              "PORTUGUES": "CARDÍACO",
+              "POMERANO": "HÄRTSKRANK",
+              "NOME_AUDIO": "15_hartskrank"
+            },
+            {
+              "PORTUGUES": "ASMÁTICO",
+              "POMERANO": "ASTMATISCH",
+              "NOME_AUDIO": "16_astmatisch"
+            },
+            {
+              "PORTUGUES": "DIABÉTICO",
+              "POMERANO": "SUKERKRANK",
+              "NOME_AUDIO": "17_sukerkrank"
+            },
+            {
+              "PORTUGUES": "SOU ALÉRGICO A...",
+              "POMERANO": "IK HÄW ALERGI FON...",
+              "NOME_AUDIO": "18_ik_haw_alergi_fon"
+            },
+            {
+              "PORTUGUES": "ANTIBIÓTICOS",
+              "POMERANO": "ANTIBIOTIKUMS",
+              "NOME_AUDIO": "19_antibiotikums"
+            },
+            {
+              "PORTUGUES": "INSULINA",
+              "POMERANO": "INSULIN",
+              "NOME_AUDIO": "20_insulin"
+            },
+            {
+              "PORTUGUES": "ASPIRINA",
+              "POMERANO": "ASPIRIN",
+              "NOME_AUDIO": "21_aspirin"
+            },
+            {
+              "PORTUGUES": "PENICILINA",
+              "POMERANO": "PENICILIN",
+              "NOME_AUDIO": "22_penicilin"
+            },
+            {
+              "PORTUGUES": "PÓLEN",
+              "POMERANO": "BLAUMESTOF",
+              "NOME_AUDIO": "23_blaumestof"
+            },
+            {
+              "PORTUGUES": "DOR NAS COSTAS",
+              "POMERANO": "RÖIGEWAIDÅG",
+              "NOME_AUDIO": "24_roigewaidag"
+            },
+            {
+              "PORTUGUES": "GARGANTE INFLAMADA",
+              "POMERANO": "HALS ENTSÜNDUNG",
+              "NOME_AUDIO": "25_hals_entsundung"
+            },
+            {
+              "PORTUGUES": "DOR DE ESTÔMAGO",
+              "POMERANO": "MÅGEWAIDÅG",
+              "NOME_AUDIO": "26_magewaidag"
+            },
+            {
+              "PORTUGUES": "DOR DE BARRIGA",
+              "POMERANO": "BUUKWAIDÅG",
+              "NOME_AUDIO": "27_buukwaidag"
+            },
+            {
+              "PORTUGUES": "DOR DE DENTE",
+              "POMERANO": "TÄÄNEWAIDÅG",
+              "NOME_AUDIO": "28_taanewaidag"
+            },
+            {
+              "PORTUGUES": "OUVIDO INFLAMADO",
+              "POMERANO": "OUREENTSÜNDUNG",
+              "NOME_AUDIO": "29_oureentsundung"
+            },
+            {
+              "PORTUGUES": "DOR DE OUVIDO",
+              "POMERANO": "OURESTEEKEN",
+              "NOME_AUDIO": "30_ouresteeken"
+            },
+            {
+              "PORTUGUES": "CABELO",
+              "POMERANO": "HÅR",
+              "NOME_AUDIO": "31_har"
+            },
+            {
+              "PORTUGUES": "CABEÇA",
+              "POMERANO": "KOP",
+              "NOME_AUDIO": "32_kop"
+            },
+            {
+              "PORTUGUES": "FACE",
+              "POMERANO": "GESICHT",
+              "NOME_AUDIO": "33_gesicht"
+            },
+            {
+              "PORTUGUES": "OLHO",
+              "POMERANO": "OOG",
+              "NOME_AUDIO": "34_oug"
+            },
+            {
+              "PORTUGUES": "ORELHA",
+              "POMERANO": "OOR",
+              "NOME_AUDIO": "35_our"
+            },
+            {
+              "PORTUGUES": "BOCA",
+              "POMERANO": "MUUL",
+              "NOME_AUDIO": "36_muul"
+            },
+            {
+              "PORTUGUES": "DENTES",
+              "POMERANO": "TÄÄNE",
+              "NOME_AUDIO": "37_taane"
+            },
+            {
+              "PORTUGUES": "NARIZ",
+              "POMERANO": "NÄÄS",
+              "NOME_AUDIO": "38_naas"
+            },
+            {
+              "PORTUGUES": "NUCA",
+              "POMERANO": "GENIK",
+              "NOME_AUDIO": "39_genik"
+            },
+            {
+              "PORTUGUES": "PESCOÇO",
+              "POMERANO": "HALS",
+              "NOME_AUDIO": "40_hals"
+            },
+            {
+              "PORTUGUES": "CORAÇÃO",
+              "POMERANO": "HÄRTS",
+              "NOME_AUDIO": "41_harts"
+            },
+            {
+              "PORTUGUES": "MÃO ",
+              "POMERANO": "HAND",
+              "NOME_AUDIO": "42_hand"
+            },
+            {
+              "PORTUGUES": "BRAÇO",
+              "POMERANO": "ARM",
+              "NOME_AUDIO": "43_arm"
+            },
+            {
+              "PORTUGUES": "DEDO",
+              "POMERANO": "FINGER",
+              "NOME_AUDIO": "44_finger"
+            },
+            {
+              "PORTUGUES": "UNHA",
+              "POMERANO": "FINGERNÅGEL",
+              "NOME_AUDIO": "45_fingernagel"
+            },
+            {
+              "PORTUGUES": "PEITO",
+              "POMERANO": "BORST",
+              "NOME_AUDIO": "46_borst"
+            },
+            {
+              "PORTUGUES": "CINTURA",
+              "POMERANO": "HÜFT",
+              "NOME_AUDIO": "47_huft"
+            },
+            {
+              "PORTUGUES": "ESTÔMAGO",
+              "POMERANO": "MÅG",
+              "NOME_AUDIO": "48_mag"
+            },
+            {
+              "PORTUGUES": "COXA",
+              "POMERANO": "KÜÜL",
+              "NOME_AUDIO": "49_kuul"
+            },
+            {
+              "PORTUGUES": "PERNA",
+              "POMERANO": "BAIR",
+              "NOME_AUDIO": "50_bair"
+            },
+            {
+              "PORTUGUES": "PÉ",
+              "POMERANO": "FAUT",
+              "NOME_AUDIO": "51_faut"
+            },
+            {
+              "PORTUGUES": "MÚSCULO",
+              "POMERANO": "MUSKEL",
+              "NOME_AUDIO": "52_muskel"
+            },
+            {
+              "PORTUGUES": "PELE",
+              "POMERANO": "FEL",
+              "NOME_AUDIO": "53_fel"
+            },
+            {
+              "PORTUGUES": "CORPO",
+              "POMERANO": "KÖRPER",
+              "NOME_AUDIO": "54_korper"
+            },
+            {
+              "PORTUGUES": "SOBRANCELHA",
+              "POMERANO": "OUGENBRÅN",
+              "NOME_AUDIO": "55_ougenbran"
+            },
+            {
+              "PORTUGUES": "PÁLPEBRA",
+              "POMERANO": "OUGENDEKEL",
+              "NOME_AUDIO": "56_ougendekel"
+            },
+            {
+              "PORTUGUES": "CÍLIO",
+              "POMERANO": "OUGENDEKELSHÅR",
+              "NOME_AUDIO": "57_ougendekelshar"
+            },
+            {
+              "PORTUGUES": "JOELHO",
+              "POMERANO": "KNAI",
+              "NOME_AUDIO": "58_knai"
+            },
+            {
+              "PORTUGUES": "OMBRO",
+              "POMERANO": "SCHULLER",
+              "NOME_AUDIO": "59_schuller"
+            },
+            {
+              "PORTUGUES": "BARRIGA",
+              "POMERANO": "BUUK",
+              "NOME_AUDIO": "60_buuk"
+            },
+            {
+              "PORTUGUES": "COSTAS",
+              "POMERANO": "RÖIGE",
+              "NOME_AUDIO": "61_roige"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Tempo",
+    "detalhes": {
+      "imagem": "8_tempo.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Dias",
+          "audios": [
+            {
+              "PORTUGUES": "DOMINGO",
+              "POMERANO": "SÜNDAG",
+              "NOME_AUDIO": "1_sundag"
+            },
+            {
+              "PORTUGUES": "SEGUNDA-FEIRA",
+              "POMERANO": "MÅNDAG",
+              "NOME_AUDIO": "2_mandag"
+            },
+            {
+              "PORTUGUES": "TERÇA-FEIRA",
+              "POMERANO": "DINSDAG",
+              "NOME_AUDIO": "3_dinsdag"
+            },
+            {
+              "PORTUGUES": "QUARTA-FEIRA",
+              "POMERANO": "MIRWEEK",
+              "NOME_AUDIO": "4_mirweek"
+            },
+            {
+              "PORTUGUES": "QUINTA-FEIRA",
+              "POMERANO": "DUNERDAG",
+              "NOME_AUDIO": "5_dunerdag"
+            },
+            {
+              "PORTUGUES": "SEXTA-FEIRA",
+              "POMERANO": "FRIJDAG",
+              "NOME_AUDIO": "6_frijdag"
+            },
+            {
+              "PORTUGUES": "SÁBADO",
+              "POMERANO": "SUNÅWEND",
+              "NOME_AUDIO": "7_sunawend"
+            }
+          ]
+        },
+        {
+          "nome": "Meses",
+          "audios": [
+            {
+              "PORTUGUES": "JANEIRO",
+              "POMERANO": "JANUAR",
+              "NOME_AUDIO": "8_januar"
+            },
+            {
+              "PORTUGUES": "FEVEREIRO",
+              "POMERANO": "FËBRUAR",
+              "NOME_AUDIO": "9_februar"
+            },
+            {
+              "PORTUGUES": "MARÇO",
+              "POMERANO": "MÄRTS",
+              "NOME_AUDIO": "10_marts"
+            },
+            {
+              "PORTUGUES": "ABRIL",
+              "POMERANO": "APRIL",
+              "NOME_AUDIO": "11_april"
+            },
+            {
+              "PORTUGUES": "MAIO",
+              "POMERANO": "MAI",
+              "NOME_AUDIO": "12_mai"
+            },
+            {
+              "PORTUGUES": "JUNHO",
+              "POMERANO": "JUNI",
+              "NOME_AUDIO": "13_juni"
+            },
+            {
+              "PORTUGUES": "JULHO",
+              "POMERANO": "JULI",
+              "NOME_AUDIO": "14_juli"
+            },
+            {
+              "PORTUGUES": "AGOSTO",
+              "POMERANO": "AUGUST",
+              "NOME_AUDIO": "15_august"
+            },
+            {
+              "PORTUGUES": "SETEMBRO",
+              "POMERANO": "SEPTEMBER",
+              "NOME_AUDIO": "16_september"
+            },
+            {
+              "PORTUGUES": "OUTUBRO",
+              "POMERANO": "OKTOBER",
+              "NOME_AUDIO": "17_oktober"
+            },
+            {
+              "PORTUGUES": "NOVEMBRO",
+              "POMERANO": "NOVEMBER",
+              "NOME_AUDIO": "18_november"
+            },
+            {
+              "PORTUGUES": "DEZEMBRO",
+              "POMERANO": "DËCEMBER",
+              "NOME_AUDIO": "19_december"
+            }
+          ]
+        },
+        {
+          "nome": "Estações",
+          "audios": [
+            {
+              "PORTUGUES": "PRIMAVERA",
+              "POMERANO": "BLAUMETIJD",
+              "NOME_AUDIO": "20_blaumetijd"
+            },
+            {
+              "PORTUGUES": "VERÃO",
+              "POMERANO": "SOMERTIJD / SOMER",
+              "NOME_AUDIO": "21_somertijd"
+            },
+            {
+              "PORTUGUES": "OUTONO",
+              "POMERANO": "FRUCHTIJD",
+              "NOME_AUDIO": "22_fruchtijd"
+            },
+            {
+              "PORTUGUES": "INVERNO",
+              "POMERANO": "KULTIJD / WINTER",
+              "NOME_AUDIO": "23_kultijd"
+            }
+          ]
+        },
+        {
+          "nome": "Outros",
+          "audios": [
+            {
+              "PORTUGUES": "DIA",
+              "POMERANO": "DAG",
+              "NOME_AUDIO": "24_dag"
+            },
+            {
+              "PORTUGUES": "NOITE",
+              "POMERANO": "NACHT",
+              "NOME_AUDIO": "25_nacht"
+            },
+            {
+              "PORTUGUES": "SEMANA",
+              "POMERANO": "WEEK",
+              "NOME_AUDIO": "26_week"
+            },
+            {
+              "PORTUGUES": "MÊS",
+              "POMERANO": "MÅNAT",
+              "NOME_AUDIO": "27_manat"
+            },
+            {
+              "PORTUGUES": "ANO",
+              "POMERANO": "JÅR",
+              "NOME_AUDIO": "28_jar"
+            },
+            {
+              "PORTUGUES": "DÉCADA",
+              "POMERANO": "JÅRSEEND",
+              "NOME_AUDIO": "29_jarseend"
+            },
+            {
+              "PORTUGUES": "SÉCULO",
+              "POMERANO": "JÅRHUUNERD",
+              "NOME_AUDIO": "30_jarhuunerd"
+            },
+            {
+              "PORTUGUES": "MILÊNIO",
+              "POMERANO": "JÅRDUUSEND",
+              "NOME_AUDIO": "31_jarduusend"
+            },
+            {
+              "PORTUGUES": "ANO BISSEXTO",
+              "POMERANO": "SCHALTJÅR",
+              "NOME_AUDIO": "32_sahaltjar"
+            },
+            {
+              "PORTUGUES": "HORA",
+              "POMERANO": "STUUN",
+              "NOME_AUDIO": "33_stuun"
+            },
+            {
+              "PORTUGUES": "MINUTO",
+              "POMERANO": "MINUT",
+              "NOME_AUDIO": "34_minut"
+            },
+            {
+              "PORTUGUES": "SEGUNDO",
+              "POMERANO": "SEKUND",
+              "NOME_AUDIO": "35_sekund"
+            },
+            {
+              "PORTUGUES": "BIMESTRE",
+              "POMERANO": "BIMESTER",
+              "NOME_AUDIO": "36_BIMESTER"
+            },
+            {
+              "PORTUGUES": "TRIMESTRE",
+              "POMERANO": "TRIMESTER",
+              "NOME_AUDIO": "37_TRIMESTER"
+            },
+            {
+              "PORTUGUES": "DÚZIA",
+              "POMERANO": "DUTS",
+              "NOME_AUDIO": "38_DUTS"
+            },
+            {
+              "PORTUGUES": "MEIA DÚZIA",
+              "POMERANO": "HALW DUTS",
+              "NOME_AUDIO": "39_HALW DUTS"
+            },
+            {
+              "PORTUGUES": "ARROBA",
+              "POMERANO": "ROOBA",
+              "NOME_AUDIO": "40_ROOBA"
+            },
+            {
+              "PORTUGUES": "HECTARE",
+              "POMERANO": "HEKTAR",
+              "NOME_AUDIO": "41_HEKTAR"
+            },
+            {
+              "PORTUGUES": "QUILO",
+              "POMERANO": "KILO",
+              "NOME_AUDIO": "42_KILO"
+            },
+            {
+              "PORTUGUES": "GRAMA",
+              "POMERANO": "GRAM",
+              "NOME_AUDIO": "43_GRAM"
+            },
+            {
+              "PORTUGUES": "MEIO QUILO",
+              "POMERANO": "HALW KILO",
+              "NOME_AUDIO": "44_HALW KILO"
+            },
+            {
+              "PORTUGUES": "LITRO",
+              "POMERANO": "LITER",
+              "NOME_AUDIO": "45_LITER"
+            },
+            {
+              "PORTUGUES": "10 LITROS ( 1 QUARTA)",
+              "POMERANO": "KWART",
+              "NOME_AUDIO": "46_KWART"
+            },
+            {
+              "PORTUGUES": "20 LITROS (2 QUARTAS)",
+              "POMERANO": "ALKËR",
+              "NOME_AUDIO": "47_ALKËR"
+            },
+            {
+              "PORTUGUES": "CAIXOTE 40 LITROS",
+              "POMERANO": "ALKËRSKASTE",
+              "NOME_AUDIO": "48_ALKËRSKASTE"
+            },
+            {
+              "PORTUGUES": "METRO",
+              "POMERANO": "MËTER",
+              "NOME_AUDIO": "49_MËTER"
+            },
+            {
+              "PORTUGUES": "QUILÔMETRO",
+              "POMERANO": "KILOMËTER",
+              "NOME_AUDIO": "50_KILOMËTER"
+            },
+            {
+              "PORTUGUES": "TONELADA",
+              "POMERANO": "TON",
+              "NOME_AUDIO": "51_TON"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Números",
+    "detalhes": {
+      "imagem": "9_numeros.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Cardinais",
+          "audios": [
+            {
+              "PORTUGUES": "ZERO",
+              "POMERANO": "NUL",
+              "NOME_AUDIO": "1_nuul"
+            },
+            {
+              "PORTUGUES": "UM",
+              "POMERANO": "AIN",
+              "NOME_AUDIO": "2_ain"
+            },
+            {
+              "PORTUGUES": "DOIS",
+              "POMERANO": "TWAI",
+              "NOME_AUDIO": "3_twai"
+            },
+            {
+              "PORTUGUES": "TRÊS",
+              "POMERANO": "DRAI",
+              "NOME_AUDIO": "4_drai"
+            },
+            {
+              "PORTUGUES": "QUATRO",
+              "POMERANO": "FAIR",
+              "NOME_AUDIO": "5_fair"
+            },
+            {
+              "PORTUGUES": "CINCO",
+              "POMERANO": "FIJW",
+              "NOME_AUDIO": "6_fijw"
+            },
+            {
+              "PORTUGUES": "SEIS",
+              "POMERANO": "SÖSS",
+              "NOME_AUDIO": "7_soss"
+            },
+            {
+              "PORTUGUES": "SETE",
+              "POMERANO": "SOIWEN",
+              "NOME_AUDIO": "8_soiwen"
+            },
+            {
+              "PORTUGUES": "OITO",
+              "POMERANO": "ACHT",
+              "NOME_AUDIO": "9_acht"
+            },
+            {
+              "PORTUGUES": "NOVE",
+              "POMERANO": "NEEGEN",
+              "NOME_AUDIO": "10_neegen"
+            },
+            {
+              "PORTUGUES": "DEZ",
+              "POMERANO": "TËGEN",
+              "NOME_AUDIO": "11_teigen"
+            },
+            {
+              "PORTUGUES": "ONZE",
+              "POMERANO": "ELWEN",
+              "NOME_AUDIO": "12_elwen"
+            },
+            {
+              "PORTUGUES": "DOZE",
+              "POMERANO": "TWÖLW",
+              "NOME_AUDIO": "13_twolw"
+            },
+            {
+              "PORTUGUES": "TREZE",
+              "POMERANO": "DRAITSEEN",
+              "NOME_AUDIO": "14_draitseen"
+            },
+            {
+              "PORTUGUES": "CATORZE",
+              "POMERANO": "FIRTSEEN",
+              "NOME_AUDIO": "15_firtseen"
+            },
+            {
+              "PORTUGUES": "QUINZE",
+              "POMERANO": "FUWTSEEN",
+              "NOME_AUDIO": "16_fuwtseen"
+            },
+            {
+              "PORTUGUES": "DEZESSEIS",
+              "POMERANO": "SEECHTSEEN",
+              "NOME_AUDIO": "17_seechtseen"
+            },
+            {
+              "PORTUGUES": "DEZESSETE",
+              "POMERANO": "SIJBTSEEN",
+              "NOME_AUDIO": "18_sijbtseen"
+            },
+            {
+              "PORTUGUES": "DEZOITO",
+              "POMERANO": "ACHTSEEN",
+              "NOME_AUDIO": "19_achtseen"
+            },
+            {
+              "PORTUGUES": "DEZENOVE",
+              "POMERANO": "NUINTSEEN",
+              "NOME_AUDIO": "20_nuintseen"
+            },
+            {
+              "PORTUGUES": "VINTE",
+              "POMERANO": "TWANSIG",
+              "NOME_AUDIO": "21_twansig"
+            },
+            {
+              "PORTUGUES": "VINTE E UM",
+              "POMERANO": "AINUNTWANSIG",
+              "NOME_AUDIO": "22_ainuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E DOIS",
+              "POMERANO": "TWAIUNTWANSIG",
+              "NOME_AUDIO": "23_twaiuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E TRÊS",
+              "POMERANO": "DRAIUNTWANSIG",
+              "NOME_AUDIO": "24_draiuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E QUATRO",
+              "POMERANO": "FIRUNTWANSIG",
+              "NOME_AUDIO": "25_firuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E CINCO",
+              "POMERANO": "FÜMWUNTWANSIG",
+              "NOME_AUDIO": "26_fumwuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E SEIS ",
+              "POMERANO": "SÖXUNTWANSIG",
+              "NOME_AUDIO": "27_soxuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E SETE",
+              "POMERANO": "SIJBUNTWANSIG",
+              "NOME_AUDIO": "28_sijbuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E OITO",
+              "POMERANO": "ACHTUNTWANSIG",
+              "NOME_AUDIO": "29_achtuntwansig"
+            },
+            {
+              "PORTUGUES": "VINTE E NOVE",
+              "POMERANO": "NUINUNTWANSIG",
+              "NOME_AUDIO": "30_nuinuntwansig"
+            },
+            {
+              "PORTUGUES": "TRINTA",
+              "POMERANO": "DRAISIG",
+              "NOME_AUDIO": "31_draisig"
+            },
+            {
+              "PORTUGUES": "QUARENTA",
+              "POMERANO": "FIRTSIG",
+              "NOME_AUDIO": "32_firtsig"
+            },
+            {
+              "PORTUGUES": "CINQUENTA",
+              "POMERANO": "FUWTSIG",
+              "NOME_AUDIO": "33_fuwtsig"
+            },
+            {
+              "PORTUGUES": "SESSENTA",
+              "POMERANO": "SEECHTSIG",
+              "NOME_AUDIO": "34_seechtsig"
+            },
+            {
+              "PORTUGUES": "SETENTA",
+              "POMERANO": "SIJBTSIG",
+              "NOME_AUDIO": "35_sijbtsig"
+            },
+            {
+              "PORTUGUES": "OITENTA",
+              "POMERANO": "ACHTSIG",
+              "NOME_AUDIO": "36_achtsig"
+            },
+            {
+              "PORTUGUES": "NOVENTA",
+              "POMERANO": "NUINTSIG",
+              "NOME_AUDIO": "37_nuintsig"
+            },
+            {
+              "PORTUGUES": "CEM",
+              "POMERANO": "HUUNERD",
+              "NOME_AUDIO": "38_huunerd"
+            },
+            {
+              "PORTUGUES": "MIL",
+              "POMERANO": "DUUSEND",
+              "NOME_AUDIO": "39_duusend"
+            },
+            {
+              "PORTUGUES": "DEZ MIL",
+              "POMERANO": "TËGENDUUSEND",
+              "NOME_AUDIO": "40_teigenduusend"
+            },
+            {
+              "PORTUGUES": "CEM MIL",
+              "POMERANO": "HUUNERDDUUSEND",
+              "NOME_AUDIO": "41_huunerdduusend"
+            },
+            {
+              "PORTUGUES": "UM MILHÃO",
+              "POMERANO": "AIN MILJON",
+              "NOME_AUDIO": "42_ain miljon"
+            }
+          ]
+        },
+        {
+          "nome": "Ordinais",
+          "audios": [
+            {
+              "PORTUGUES": "PRIMEIRO",
+              "POMERANO": "AIRST",
+              "NOME_AUDIO": "43_airst"
+            },
+            {
+              "PORTUGUES": "SEGUNDO",
+              "POMERANO": "TWAIT",
+              "NOME_AUDIO": "44_twait"
+            },
+            {
+              "PORTUGUES": "TERCEIRO",
+              "POMERANO": "DRÜR",
+              "NOME_AUDIO": "45_drur"
+            },
+            {
+              "PORTUGUES": "QUARTO",
+              "POMERANO": "FIRT",
+              "NOME_AUDIO": "46_firt"
+            },
+            {
+              "PORTUGUES": "QUINTO",
+              "POMERANO": "FÜMWT",
+              "NOME_AUDIO": "47_fumwt"
+            },
+            {
+              "PORTUGUES": "SEXTO",
+              "POMERANO": "SÖXT",
+              "NOME_AUDIO": "48_soxt"
+            },
+            {
+              "PORTUGUES": "SÉTIMO",
+              "POMERANO": "SIJBENT",
+              "NOME_AUDIO": "49_sijbend"
+            },
+            {
+              "PORTUGUES": "OITAVO",
+              "POMERANO": "ACHT",
+              "NOME_AUDIO": "50_acht"
+            },
+            {
+              "PORTUGUES": "NONO",
+              "POMERANO": "NUINT",
+              "NOME_AUDIO": "51_nuind"
+            },
+            {
+              "PORTUGUES": "DÉCIMO",
+              "POMERANO": "SEENT",
+              "NOME_AUDIO": "52_seend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO PRIMEIRO",
+              "POMERANO": "ELWT",
+              "NOME_AUDIO": "53_elwt"
+            },
+            {
+              "PORTUGUES": "DÉCIMO SEGUNDO",
+              "POMERANO": "TWÖLWT",
+              "NOME_AUDIO": "54_twolwt"
+            },
+            {
+              "PORTUGUES": "DÉCIMO TERCEIRO",
+              "POMERANO": "DRAITSEENT",
+              "NOME_AUDIO": "55_draitseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO QUARTO",
+              "POMERANO": "FIRTSEENT",
+              "NOME_AUDIO": "56_firtseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO QUINTO",
+              "POMERANO": "FUWTSEENT",
+              "NOME_AUDIO": "57_fuwtseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO SEXTO",
+              "POMERANO": "SEECHTSEENT",
+              "NOME_AUDIO": "58_seechtseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO SÉTIMO",
+              "POMERANO": "SIJBTSEENT",
+              "NOME_AUDIO": "59_sijbtseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO OITAVO",
+              "POMERANO": "ACHTSEENT",
+              "NOME_AUDIO": "60_achtseend"
+            },
+            {
+              "PORTUGUES": "DÉCIMO NONO",
+              "POMERANO": "NUINTSEENT",
+              "NOME_AUDIO": "61_nuintseend"
+            },
+            {
+              "PORTUGUES": "VIGÉSIMO",
+              "POMERANO": "TWANSIGST",
+              "NOME_AUDIO": "62_twansigst"
+            },
+            {
+              "PORTUGUES": "TRIGÉSIMO",
+              "POMERANO": "DRAISIGST",
+              "NOME_AUDIO": "63_draisigst"
+            },
+            {
+              "PORTUGUES": "QUADRAGÉSIMO",
+              "POMERANO": "FIRTSIGST",
+              "NOME_AUDIO": "64_firtsigst"
+            },
+            {
+              "PORTUGUES": "QUINQUAGÉSIMO",
+              "POMERANO": "FUWTSIGST",
+              "NOME_AUDIO": "65_fuwtsigst"
+            },
+            {
+              "PORTUGUES": "SEXAGÉSIMO",
+              "POMERANO": "SEECHTSIGST",
+              "NOME_AUDIO": "66_seechtsigst"
+            },
+            {
+              "PORTUGUES": "SEPTUAGÉSIMO",
+              "POMERANO": "SIJBTSIGST",
+              "NOME_AUDIO": "67_sijbtsigst"
+            },
+            {
+              "PORTUGUES": "OCTOGÉSIMO",
+              "POMERANO": "ACHTSIGST",
+              "NOME_AUDIO": "68_achtsigst"
+            },
+            {
+              "PORTUGUES": "NONAGÉSIMO",
+              "POMERANO": "NUINSIGST",
+              "NOME_AUDIO": "69_nuinsigst"
+            },
+            {
+              "PORTUGUES": "CENTÉSIMO",
+              "POMERANO": "HUUNERDST",
+              "NOME_AUDIO": "70_huunerdst"
+            },
+            {
+              "PORTUGUES": "MILÉSIMO",
+              "POMERANO": "DUUSENDST",
+              "NOME_AUDIO": "71_duusendst"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Cores",
+    "detalhes": {
+      "imagem": "10_cores.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Cores",
+          "audios": [
+            {
+              "PORTUGUES": "VERMELHO",
+              "POMERANO": "ROOD",
+              "NOME_AUDIO": "1_roud"
+            },
+            {
+              "PORTUGUES": "AZUL",
+              "POMERANO": "BLÅG",
+              "NOME_AUDIO": "2_blag"
+            },
+            {
+              "PORTUGUES": "AMARELO",
+              "POMERANO": "GEEL",
+              "NOME_AUDIO": "3_geel"
+            },
+            {
+              "PORTUGUES": "PRETO",
+              "POMERANO": "SWART",
+              "NOME_AUDIO": "4_swart"
+            },
+            {
+              "PORTUGUES": "BRANCO",
+              "POMERANO": "WIT",
+              "NOME_AUDIO": "5_wit"
+            },
+            {
+              "PORTUGUES": "VERDE",
+              "POMERANO": "GRUIN",
+              "NOME_AUDIO": "6_gruin"
+            },
+            {
+              "PORTUGUES": "MARROM",
+              "POMERANO": "BRUUN",
+              "NOME_AUDIO": "7_bruun"
+            },
+            {
+              "PORTUGUES": "DOURADO",
+              "POMERANO": "GULDIG",
+              "NOME_AUDIO": "8_guldig"
+            },
+            {
+              "PORTUGUES": "PRATEADO",
+              "POMERANO": "SILWERN",
+              "NOME_AUDIO": "9_silwern"
+            },
+            {
+              "PORTUGUES": "ROXO",
+              "POMERANO": "OOSTERBLÅG",
+              "NOME_AUDIO": "10_ousterblag"
+            },
+            {
+              "PORTUGUES": "LILÁS",
+              "POMERANO": "LILABLÅG",
+              "NOME_AUDIO": "11_lilablag"
+            },
+            {
+              "PORTUGUES": "ROSA CLARO",
+              "POMERANO": "HELROOD",
+              "NOME_AUDIO": "12_helroud"
+            },
+            {
+              "PORTUGUES": "AZUL ESCURO",
+              "POMERANO": "DÜÜSTERBLÅG",
+              "NOME_AUDIO": "13_duusterblag"
+            },
+            {
+              "PORTUGUES": "AZUL CLARO",
+              "POMERANO": "HELBLÅG",
+              "NOME_AUDIO": "14_helblag"
+            },
+            {
+              "PORTUGUES": "VERDE CLARO",
+              "POMERANO": "HELGRUIN",
+              "NOME_AUDIO": "15_helgruin"
+            },
+            {
+              "PORTUGUES": "ALARANJADO",
+              "POMERANO": "GEELROOD",
+              "NOME_AUDIO": "16_geelroud"
+            },
+            {
+              "PORTUGUES": "VINHO",
+              "POMERANO": "ROODBRUUN",
+              "NOME_AUDIO": "17_roudbruun"
+            },
+            {
+              "PORTUGUES": "VIOLETA",
+              "POMERANO": "VIOLËT",
+              "NOME_AUDIO": "18_violeit"
+            },
+            {
+              "PORTUGUES": "AMARELO CLARO",
+              "POMERANO": "HELGEEL",
+              "NOME_AUDIO": "19_helgeel"
+            },
+            {
+              "PORTUGUES": "ACINZENTADO",
+              "POMERANO": "ASCHIG",
+              "NOME_AUDIO": "20_ASCHIG"
+            },
+            {
+              "PORTUGUES": "CINZA",
+              "POMERANO": "GRIJS",
+              "NOME_AUDIO": "21_GRIJS"
+            },
+            {
+              "PORTUGUES": "PÚRPURA",
+              "POMERANO": "PURPUR",
+              "NOME_AUDIO": "22_PURPUR"
+            },
+            {
+              "PORTUGUES": "VERDE ESCURO",
+              "POMERANO": "DÜÜSTERGRUIN",
+              "NOME_AUDIO": "23_DÜÜSTERGRUIN"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Ferramentas",
+    "detalhes": {
+      "imagem": "11_ferramentas.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Ferramentas",
+          "audios": [
+            {
+              "PORTUGUES": "ALAVANCA",
+              "POMERANO": "SPAIK",
+              "NOME_AUDIO": "1_SPAIK"
+            },
+            {
+              "PORTUGUES": "ALICATE",
+              "POMERANO": "POTTANG",
+              "NOME_AUDIO": "2_POTTANG"
+            },
+            {
+              "PORTUGUES": "BIGORNA",
+              "POMERANO": "AMBUS",
+              "NOME_AUDIO": "3_AMBUS"
+            },
+            {
+              "PORTUGUES": "CAVADEIRA",
+              "POMERANO": "BUTELFOOS",
+              "NOME_AUDIO": "4_BUTELFOOS"
+            },
+            {
+              "PORTUGUES": "CAVADEIRA RETA",
+              "POMERANO": "STEEKFOOS",
+              "NOME_AUDIO": "5_STEEKFOOS"
+            },
+            {
+              "PORTUGUES": "CHAVE DE FENDA",
+              "POMERANO": "SRUUWETREKER",
+              "NOME_AUDIO": "6_SRUUWETREKER"
+            },
+            {
+              "PORTUGUES": "CHAVE DE PARAFUSOS",
+              "POMERANO": "SRUUWSLOIDEL",
+              "NOME_AUDIO": "7_SRUUWSLOIDEL"
+            },
+            {
+              "PORTUGUES": "COLHER DE PEDREIRO",
+              "POMERANO": "MUURKEL",
+              "NOME_AUDIO": "8_MUURKEL"
+            },
+            {
+              "PORTUGUES": "ENXADA",
+              "POMERANO": "HAK",
+              "NOME_AUDIO": "9_HAK"
+            },
+            {
+              "PORTUGUES": "ENXADÃO",
+              "POMERANO": "GRÅRHAK",
+              "NOME_AUDIO": "10_GRÅRHAK"
+            },
+            {
+              "PORTUGUES": "ENXÓ",
+              "POMERANO": "DËSTEL",
+              "NOME_AUDIO": "11_DËSTEL"
+            },
+            {
+              "PORTUGUES": "ESCOPRO",
+              "POMERANO": "MAISTEL",
+              "NOME_AUDIO": "12_MAISTEL"
+            },
+            {
+              "PORTUGUES": "ESQUADRO",
+              "POMERANO": "WINKEL",
+              "NOME_AUDIO": "13_WINKEL"
+            },
+            {
+              "PORTUGUES": "FOICE",
+              "POMERANO": "FOOS",
+              "NOME_AUDIO": "14_FOOS"
+            },
+            {
+              "PORTUGUES": "FOICINHA",
+              "POMERANO": "SËKEL",
+              "NOME_AUDIO": "15_SËKEL"
+            },
+            {
+              "PORTUGUES": "FORMÃO",
+              "POMERANO": "STÄMIJSER",
+              "NOME_AUDIO": "16_STÄMIJSER"
+            },
+            {
+              "PORTUGUES": "FURADEIRA MANUAL",
+              "POMERANO": "SWUNGBÅRER",
+              "NOME_AUDIO": "17_SWUNGBÅRER"
+            },
+            {
+              "PORTUGUES": "GROSA",
+              "POMERANO": "RASPELFIJL",
+              "NOME_AUDIO": "18_RASPELFIJL"
+            },
+            {
+              "PORTUGUES": "LIMA",
+              "POMERANO": "FIJL",
+              "NOME_AUDIO": "19_FIJL"
+            },
+            {
+              "PORTUGUES": "MACHADINHA PARA LAVRAR MADEIRA",
+              "POMERANO": "BEHOOGÄX",
+              "NOME_AUDIO": "20_BEHOOGÄX"
+            },
+            {
+              "PORTUGUES": "MACHADO",
+              "POMERANO": "ÄX",
+              "NOME_AUDIO": "21_ÄX"
+            },
+            {
+              "PORTUGUES": "MARRETA",
+              "POMERANO": "STAINHÅMER",
+              "NOME_AUDIO": "22_STAINHÅMER"
+            },
+            {
+              "PORTUGUES": "MARTELO",
+              "POMERANO": "HÅMER",
+              "NOME_AUDIO": "23_HÅMER"
+            },
+            {
+              "PORTUGUES": "MARTELO DE SOLDA",
+              "POMERANO": "LÖÖRHÅMER",
+              "NOME_AUDIO": "24_LÖÖRHÅMER"
+            },
+            {
+              "PORTUGUES": "MOTOSERRA",
+              "POMERANO": "MOTOORSÅG",
+              "NOME_AUDIO": "25_MOTOORSÅG"
+            },
+            {
+              "PORTUGUES": "PÁ",
+              "POMERANO": "SCHÜP",
+              "NOME_AUDIO": "26_SCHÜP"
+            },
+            {
+              "PORTUGUES": "PICARETA",
+              "POMERANO": "SPITSHAK",
+              "NOME_AUDIO": "27_SPITSHAK"
+            },
+            {
+              "PORTUGUES": "PLAINA DE FERRO",
+              "POMERANO": "IJSERHUUBEL",
+              "NOME_AUDIO": "28_IJSERHUUBEL"
+            },
+            {
+              "PORTUGUES": "PRUMO",
+              "POMERANO": "LOOD",
+              "NOME_AUDIO": "29_LOOD"
+            },
+            {
+              "PORTUGUES": "RASTELO",
+              "POMERANO": "HARK",
+              "NOME_AUDIO": "30_HARK"
+            },
+            {
+              "PORTUGUES": "SERRA CIRCULAR",
+              "POMERANO": "CIRKULARSÅG",
+              "NOME_AUDIO": "31_CIRKULARSÅG"
+            },
+            {
+              "PORTUGUES": "SERRA DE BRAÇO",
+              "POMERANO": "BREDSÅG",
+              "NOME_AUDIO": "32_BREDSÅG"
+            },
+            {
+              "PORTUGUES": "SERRA TICO TICO MANUAL",
+              "POMERANO": "STIGSÅG",
+              "NOME_AUDIO": "33_STIGSÅG"
+            },
+            {
+              "PORTUGUES": "SERRINHA PARA METAIS",
+              "POMERANO": "IJSERSÅG",
+              "NOME_AUDIO": "34_IJSERSÅG"
+            },
+            {
+              "PORTUGUES": "SERROTE",
+              "POMERANO": "FOIRSWANS",
+              "NOME_AUDIO": "35_FOIRSWANS"
+            },
+            {
+              "PORTUGUES": "SOVELA",
+              "POMERANO": "SÜÜGEL",
+              "NOME_AUDIO": "36_SÜÜGEL"
+            },
+            {
+              "PORTUGUES": "TORNO MORSA",
+              "POMERANO": "SRUUWSTOK",
+              "NOME_AUDIO": "37_SRUUWSTOK"
+            },
+            {
+              "PORTUGUES": "TORQUÊS",
+              "POMERANO": "KNIPTANG",
+              "NOME_AUDIO": "38_KNIPTANG"
+            },
+            {
+              "PORTUGUES": "TRAÇADOR",
+              "POMERANO": "DRUMSÅG",
+              "NOME_AUDIO": "39_DRUMSÅG"
+            },
+            {
+              "PORTUGUES": "TRADO",
+              "POMERANO": "HANDBÅRER",
+              "NOME_AUDIO": "40_HANDBÅRER"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Familia",
+    "detalhes": {
+      "imagem": "12_familia.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Familia",
+          "audios": [
+            {
+              "PORTUGUES": "Avó",
+              "POMERANO": "Grootmuter",
+              "NOME_AUDIO": "1_Grootmuter"
+            },
+            {
+              "PORTUGUES": "Avô",
+              "POMERANO": "Grootfåter",
+              "NOME_AUDIO": "2_Grootfåter"
+            },
+            {
+              "PORTUGUES": "Bisavó",
+              "POMERANO": "Urgrootmuter",
+              "NOME_AUDIO": "3_Urgrootmuter"
+            },
+            {
+              "PORTUGUES": "Bisavô",
+              "POMERANO": "Urgrootfåter",
+              "NOME_AUDIO": "4_Urgrootfåter"
+            },
+            {
+              "PORTUGUES": "Bisavós",
+              "POMERANO": "Urgrootülrer",
+              "NOME_AUDIO": "5_Urgrootülrer"
+            },
+            {
+              "PORTUGUES": "Bisneto(a)",
+              "POMERANO": "Urenkelkind",
+              "NOME_AUDIO": "6_Urenkelkind"
+            },
+            {
+              "PORTUGUES": "Cunhada",
+              "POMERANO": "Swäägersch",
+              "NOME_AUDIO": "7_Swäägersch"
+            },
+            {
+              "PORTUGUES": "Cunhado",
+              "POMERANO": "Swåger",
+              "NOME_AUDIO": "8_Swåger"
+            },
+            {
+              "PORTUGUES": "Genro",
+              "POMERANO": "Swigersoin",
+              "NOME_AUDIO": "9_Swigersoin"
+            },
+            {
+              "PORTUGUES": "Irmã",
+              "POMERANO": "Swester",
+              "NOME_AUDIO": "10_Swester"
+            },
+            {
+              "PORTUGUES": "Irmã do avô ou da avó",
+              "POMERANO": "Groottante",
+              "NOME_AUDIO": "11_Groottante"
+            },
+            {
+              "PORTUGUES": "Irmão",
+              "POMERANO": "Braurer",
+              "NOME_AUDIO": "12_Braurer"
+            },
+            {
+              "PORTUGUES": "Irmão do avô ou da avó",
+              "POMERANO": "Grootunkel",
+              "NOME_AUDIO": "13_Grootunkel"
+            },
+            {
+              "PORTUGUES": "Madrasta",
+              "POMERANO": "Staifmuter",
+              "NOME_AUDIO": "14_Staifmuter"
+            },
+            {
+              "PORTUGUES": "Mãe",
+              "POMERANO": "Muter",
+              "NOME_AUDIO": "15_Muter"
+            },
+            {
+              "PORTUGUES": "meia irmã",
+              "POMERANO": "Staifswester / halwswester",
+              "NOME_AUDIO": "16_Staifswester_halwswester"
+            },
+            {
+              "PORTUGUES": "Meio irmão",
+              "POMERANO": "Staifbraurer / halwbraurer",
+              "NOME_AUDIO": "17_Staifbraurer_halwbraurer"
+            },
+            {
+              "PORTUGUES": "Nora",
+              "POMERANO": "Swigertochter",
+              "NOME_AUDIO": "18_Swigertochter"
+            },
+            {
+              "PORTUGUES": "Padrasto",
+              "POMERANO": "Staiffåter",
+              "NOME_AUDIO": "19_Staiffåter"
+            },
+            {
+              "PORTUGUES": "Pai",
+              "POMERANO": "Fåter",
+              "NOME_AUDIO": "20_Fåter"
+            },
+            {
+              "PORTUGUES": "Primo / prima",
+              "POMERANO": "Prim",
+              "NOME_AUDIO": "21_Prim"
+            },
+            {
+              "PORTUGUES": "Sobrinho /sobrinha",
+              "POMERANO": "Bruirerskind",
+              "NOME_AUDIO": "22_Bruirerskind"
+            },
+            {
+              "PORTUGUES": "Sogra",
+              "POMERANO": "Swigermuter",
+              "NOME_AUDIO": "23_Swigermuter"
+            },
+            {
+              "PORTUGUES": "Sogro",
+              "POMERANO": "Swigerfåter",
+              "NOME_AUDIO": "24_Swigerfåter"
+            },
+            {
+              "PORTUGUES": "Tataraneto(a)",
+              "POMERANO": "Ururenkelkind",
+              "NOME_AUDIO": "25_Ururenkelkind"
+            },
+            {
+              "PORTUGUES": "Tataravó",
+              "POMERANO": "Ururgrootmuter",
+              "NOME_AUDIO": "26_Ururgrootmuter"
+            },
+            {
+              "PORTUGUES": "Tataravô",
+              "POMERANO": "Ururgrootfåter",
+              "NOME_AUDIO": "27_Ururgrootfåter"
+            },
+            {
+              "PORTUGUES": "Tataravós",
+              "POMERANO": "Ururgrootülrer",
+              "NOME_AUDIO": "28_Ururgrootülrer"
+            },
+            {
+              "PORTUGUES": "Tia",
+              "POMERANO": "Tante",
+              "NOME_AUDIO": "29_Tante"
+            },
+            {
+              "PORTUGUES": "Tio",
+              "POMERANO": "Unkel",
+              "NOME_AUDIO": "30_Unkel"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "categoria": "Escola",
+    "detalhes": {
+      "imagem": "13_escola.jpg",
+      "sub_categoria": [
+        {
+          "nome": "Escola",
+          "audios": [
+            {
+              "PORTUGUES": "APAGADOR  DE QUADRO",
+              "POMERANO": "WANDTÅFELLÖSCHER",
+              "NOME_AUDIO": "1_WANDTÅFELLÖSCHER"
+            },
+            {
+              "PORTUGUES": "APONTADOR",
+              "POMERANO": "BLIJGSTIFTSPIPTSER / SPITSER",
+              "NOME_AUDIO": "2_BLIJGSTIFTSPIPTSER_SPITSER"
+            },
+            {
+              "PORTUGUES": "ARMÁRIO",
+              "POMERANO": "SPIND",
+              "NOME_AUDIO": "3_SPIND"
+            },
+            {
+              "PORTUGUES": "BLOCO DE ANOTAÇÕES",
+              "POMERANO": "ANSRIJWSBLOK",
+              "NOME_AUDIO": "4_ANSRIJWSBLOK"
+            },
+            {
+              "PORTUGUES": "BOLSA  ESCOLAR",
+              "POMERANO": "SCHAULETASCH",
+              "NOME_AUDIO": "5_SCHAULETASCH"
+            },
+            {
+              "PORTUGUES": "BOLSINHA",
+              "POMERANO": "BLIJGSTIFTETASCH",
+              "NOME_AUDIO": "6_BLIJGSTIFTETASCH"
+            },
+            {
+              "PORTUGUES": "BORRACHA",
+              "POMERANO": "LÖSCHER",
+              "NOME_AUDIO": "7_LÖSCHER"
+            },
+            {
+              "PORTUGUES": "CADEIRA",
+              "POMERANO": "STAUL",
+              "NOME_AUDIO": "8_STAUL"
+            },
+            {
+              "PORTUGUES": "CADERNO",
+              "POMERANO": "HEFT",
+              "NOME_AUDIO": "9_HEFT"
+            },
+            {
+              "PORTUGUES": "CADERNO DE DESENHO",
+              "POMERANO": "MÅLHEFT",
+              "NOME_AUDIO": "10_MÅLHEFT"
+            },
+            {
+              "PORTUGUES": "CANETA",
+              "POMERANO": "KUUGELSRIJWER",
+              "NOME_AUDIO": "11_KUUGELSRIJWER"
+            },
+            {
+              "PORTUGUES": "CANETINHA",
+              "POMERANO": "FARWSTIFT",
+              "NOME_AUDIO": "12_FARWSTIFT"
+            },
+            {
+              "PORTUGUES": "CARTEIRA",
+              "POMERANO": "SCHAULEDISCH",
+              "NOME_AUDIO": "13_SCHAULEDISCH"
+            },
+            {
+              "PORTUGUES": "CD",
+              "POMERANO": "CD",
+              "NOME_AUDIO": "14_CD"
+            },
+            {
+              "PORTUGUES": "CESTA DE LIXO",
+              "POMERANO": "DREKEMER",
+              "NOME_AUDIO": "15_DREKEMER"
+            },
+            {
+              "PORTUGUES": "CLIPE",
+              "POMERANO": "PAPIJRKLAMER",
+              "NOME_AUDIO": "16_PAPIJRKLAMER"
+            },
+            {
+              "PORTUGUES": "COLA",
+              "POMERANO": "LIJM",
+              "NOME_AUDIO": "17_LIJM"
+            },
+            {
+              "PORTUGUES": "COLA COLORIDA",
+              "POMERANO": "BUNTELIJM",
+              "NOME_AUDIO": "18_BUNTELIJM"
+            },
+            {
+              "PORTUGUES": "COLA COM GLITTER",
+              "POMERANO": "GLITERLIJM",
+              "NOME_AUDIO": "19_GLITERLIJM"
+            },
+            {
+              "PORTUGUES": "COMPASSO",
+              "POMERANO": "CIRKEL",
+              "NOME_AUDIO": "20_CIRKEL"
+            },
+            {
+              "PORTUGUES": "COMPUTADOR",
+              "POMERANO": "KOMPUTATOR",
+              "NOME_AUDIO": "21_KOMPUTATOR"
+            },
+            {
+              "PORTUGUES": "CORRETIVO",
+              "POMERANO": "KORREKTIV",
+              "NOME_AUDIO": "22_KORREKTIV"
+            },
+            {
+              "PORTUGUES": "DICIONÁRIO",
+              "POMERANO": "WÖÖRBAUK",
+              "NOME_AUDIO": "23_WÖÖRBAUK"
+            },
+            {
+              "PORTUGUES": "ESTILETE",
+              "POMERANO": "STILET",
+              "NOME_AUDIO": "24_STILET"
+            },
+            {
+              "PORTUGUES": "FITA ADESIVA",
+              "POMERANO": "BAKBAND",
+              "NOME_AUDIO": "25_BAKBAND"
+            },
+            {
+              "PORTUGUES": "FRASE",
+              "POMERANO": "SATS",
+              "NOME_AUDIO": "26_SATS"
+            },
+            {
+              "PORTUGUES": "GIZ",
+              "POMERANO": "KRIJT",
+              "NOME_AUDIO": "27_KRIJT"
+            },
+            {
+              "PORTUGUES": "GIZ DE CERA",
+              "POMERANO": "WASKRIJT",
+              "NOME_AUDIO": "28_WASKRIJT"
+            },
+            {
+              "PORTUGUES": "GLOBO TERRESTRE",
+              "POMERANO": "GLOBUS",
+              "NOME_AUDIO": "29_GLOBUS"
+            },
+            {
+              "PORTUGUES": "GRAMPO",
+              "POMERANO": "KLEM",
+              "NOME_AUDIO": "30_KLEM"
+            },
+            {
+              "PORTUGUES": "GRAMPEADOR",
+              "POMERANO": "KLEMMASCCHIJN",
+              "NOME_AUDIO": "31_KLEMMASCCHIJN"
+            },
+            {
+              "PORTUGUES": "LÁPIS",
+              "POMERANO": "BLIJGSTIFT",
+              "NOME_AUDIO": "32_BLIJGSTIFT"
+            },
+            {
+              "PORTUGUES": "LÁPIS DE COR",
+              "POMERANO": "BUNTEBLIJGSTIFT / FARWBLIJGSTIFT",
+              "NOME_AUDIO": "33_BUNTEBLIJGSTIFT_FARWBLIJGSTIFT"
+            },
+            {
+              "PORTUGUES": "LIVRO DE HISTÓRIA",
+              "POMERANO": "GESCHICHTEBAUK",
+              "NOME_AUDIO": "34_GESCHICHTEBAUK"
+            },
+            {
+              "PORTUGUES": "LIVRO",
+              "POMERANO": "BAUK",
+              "NOME_AUDIO": "35_BAUK"
+            },
+            {
+              "PORTUGUES": "LIVRO DE LEITURA",
+              "POMERANO": "LEESBAUK",
+              "NOME_AUDIO": "36_LEESBAUK"
+            },
+            {
+              "PORTUGUES": "MARCA TEXTO",
+              "POMERANO": "MARKIJRSTITF",
+              "NOME_AUDIO": "37_MARKIJRSTITF"
+            },
+            {
+              "PORTUGUES": "PASTA",
+              "POMERANO": "ORDNER",
+              "NOME_AUDIO": "38_ORDNER"
+            },
+            {
+              "PORTUGUES": "PAPEL",
+              "POMERANO": "PAPIJR",
+              "NOME_AUDIO": "39_PAPIJR"
+            },
+            {
+              "PORTUGUES": "PERFURADOR",
+              "POMERANO": "LOCHER",
+              "NOME_AUDIO": "40_LOCHER"
+            },
+            {
+              "PORTUGUES": "PINCEL DE QUADRO",
+              "POMERANO": "TÅFELSTIFT",
+              "NOME_AUDIO": "41_TÅFELSTIFT"
+            },
+            {
+              "PORTUGUES": "PRANCHETA",
+              "POMERANO": "SRIJWPLANK",
+              "NOME_AUDIO": "42_SRIJWPLANK"
+            },
+            {
+              "PORTUGUES": "PROVA",
+              "POMERANO": "PRÖÖV",
+              "NOME_AUDIO": "43_PRÖÖV"
+            },
+            {
+              "PORTUGUES": "QUADRO BRANCO",
+              "POMERANO": "WITWANDTÅFEL",
+              "NOME_AUDIO": "44_WITWANDTÅFEL"
+            },
+            {
+              "PORTUGUES": "QUADRO NEGRO/LOUSA",
+              "POMERANO": "WANDTÅFEL",
+              "NOME_AUDIO": "45_WANDTÅFEL"
+            },
+            {
+              "PORTUGUES": "RÉGUA",
+              "POMERANO": "LINJÅL",
+              "NOME_AUDIO": "46_LINJÅL"
+            },
+            {
+              "PORTUGUES": "RELÓGIO DE PAREDE",
+              "POMERANO": "WANDKLOK",
+              "NOME_AUDIO": "47_WANDKLOK"
+            },
+            {
+              "PORTUGUES": "TEXTO",
+              "POMERANO": "TEXT",
+              "NOME_AUDIO": "48_TEXT"
+            },
+            {
+              "PORTUGUES": "TESOURA",
+              "POMERANO": "SCHËR",
+              "NOME_AUDIO": "49_SCHËR"
+            },
+            {
+              "PORTUGUES": "TINTA",
+              "POMERANO": "FARW / TINTE",
+              "NOME_AUDIO": "50_FARW_TINTE"
+            },
+            {
+              "PORTUGUES": "TRANSFERIDOR",
+              "POMERANO": "WINKELMEETER",
+              "NOME_AUDIO": "51_WINKELMEETER"
+            },
+            {
+              "PORTUGUES": "DITADO",
+              "POMERANO": "DIKTAD",
+              "NOME_AUDIO": "52_DIKTAD"
+            },
+            {
+              "PORTUGUES": "PROFESSOR",
+              "POMERANO": "SCHAULLËRER",
+              "NOME_AUDIO": "53_SCHAULLËRER"
+            },
+            {
+              "PORTUGUES": "PROFESSORA",
+              "POMERANO": "SCHAULLËRESCH",
+              "NOME_AUDIO": "54_SCHAULLËRESCH"
+            },
+            {
+              "PORTUGUES": "ALUNO",
+              "POMERANO": "SCHAULEKIND",
+              "NOME_AUDIO": "55_SCHAULEKIND"
+            },
+            {
+              "PORTUGUES": "CLASSE",
+              "POMERANO": "KLASS",
+              "NOME_AUDIO": "56_KLASS"
+            },
+            {
+              "PORTUGUES": "RECREIO",
+              "POMERANO": "PAUS",
+              "NOME_AUDIO": "57_PAUS"
+            },
+            {
+              "PORTUGUES": "GARRAFA DE ÁGUA",
+              "POMERANO": "WÅTERFLASCH",
+              "NOME_AUDIO": "58_WÅTERFLASCH"
+            },
+            {
+              "PORTUGUES": "MOCHILA",
+              "POMERANO": "SCHAULETASCH",
+              "NOME_AUDIO": "59_SCHAULETASCH"
+            },
+            {
+              "PORTUGUES": "PÁTIO",
+              "POMERANO": "SCHAULEHOF",
+              "NOME_AUDIO": "60_SCHAULEHOF"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

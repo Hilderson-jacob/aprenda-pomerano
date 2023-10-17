@@ -1,0 +1,122 @@
+/* ===========dark theme variables ============ */
+.dark-theme-variables {
+    --color-background: #181a1e;
+    --color-white: #202528;
+    --color-dark: #edeffd;
+    --color-dark-variant: #a3bdcc;
+    --color-light: rgba(0, 0, 0, 0.4);
+    --box-shandow: 0 2rem 3rem var(--color-ligth);
+}
+#audio-modal {
+    display: none;
+    overflow-y: auto;
+    position: fixed;
+    z-index: 1;
+    width: 100vw;
+    height: 100vh;
+    background-color: #363949;
+    /* padding-bottom: .5rem; */
+}
+
+#audio-modal .audios-content {
+    margin-top: 6vh;
+}
+
+#audio-modal nav {
+    position: fixed;
+    margin-bottom: 5px;
+    z-index: 2;
+}
+
+#audio-modal .audios-content h2 {
+    font-size: 3rem;
+    /* margin-top: 5px; */
+    color: #dce1eb;
+}
+.audios-content {
+    /* margin-top: 2.5rem; */
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    row-gap: 2.5;
+    /* grid-template-columns: auto; */
+    flex-direction: column;
+}
+
+.audio {
+    width: 90vw;
+    transition: all 300ms ease;
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    font-size: 3rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    position: relative;
+}
+
+.pomer-text {
+    font-size: 3rem;
+    display: none;
+    color: #0975F9;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+
+}
+
+.text div:first-child {
+    width: 90%;
+    z-index: 1;
+}
+
+.clicked {
+    transform: scale(1.03);
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.clicked .pomer-text {
+    display: block;
+    z-index: 1;
+}
+
+.clicked .icon-play {
+    border-left: 1px solid white;
+}
+
+.audio .icon-play {
+    display: flex;
+    align-items: center;
+}
+
+.audio .icon-play span {
+    font-size: 5rem;
+    z-index: 1;
+}
+
+.none {
+    display: none;
+}
+
+.audio-display {
+    position: absolute;
+    width: 0%;
+}
+
+.clicked .audio-display {
+    height: 100%;
+    background-color: #0975f963;
+    border-radius: 2rem;
+    animation: crescent linear;
+    /* animation-duration: 2s; */
+}
+
+@keyframes crescent {
+    from {
+        width: 0%;
+    }
+
+    to {
+        width: 100%;
+    }
+
+}

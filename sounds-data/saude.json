@@ -1,0 +1,307 @@
+[
+  {
+    "PORTUGUÊS": "ONDE FICA O HOSPITAL?",
+    "POMERANO": "WOO BLIWT DAT KRANKEHUUS?",
+    "NOME_AUDIO": "1_woo_bliwt_dat_krankehuus"
+  },
+  {
+    "PORTUGUÊS": " EU PRECISO DE UM MÉDICO",
+    "POMERANO": "IK BRUUK AINE DOKTER",
+    "NOME_AUDIO": "2_ik_bruuk_aine_dokter"
+  },
+  {
+    "PORTUGUÊS": "ESTOU DOENTE",
+    "POMERANO": "IK BÜN KRANK",
+    "NOME_AUDIO": "3_ik_bun_krank"
+  },
+  {
+    "PORTUGUÊS": "DOI-ME AQUI",
+    "POMERANO": "DÄIT MIJ HIJR WAI",
+    "NOME_AUDIO": "4_dait_mij_hijr_wai"
+  },
+  {
+    "PORTUGUÊS": " EU ESTOU COM TOSSE",
+    "POMERANO": "IK HÄW HAUSTE",
+    "NOME_AUDIO": "5_ik_haw_hauste"
+  },
+  {
+    "PORTUGUÊS": "EU ESTOU COM DIARREIA",
+    "POMERANO": "IK HÄW DOIRFAL",
+    "NOME_AUDIO": "6_ik_haw_doirfal"
+  },
+  {
+    "PORTUGUÊS": "TENHO FEBRE",
+    "POMERANO": "IK HÄW FEIWER",
+    "NOME_AUDIO": "7_ik_haw_feiwer"
+  },
+  {
+    "PORTUGUÊS": "EU TENHO  DOR DE CABEÇA",
+    "POMERANO": "IK HÄW KOPWAIDÅG",
+    "NOME_AUDIO": "8_ik_haw_kopwaidag"
+  },
+  {
+    "PORTUGUÊS": "TENHO DOR DE ESTOMAGO",
+    "POMERANO": "IK HÄW MÅGEWAIDÅG",
+    "NOME_AUDIO": "9_ik_haw_magewaidag"
+  },
+  {
+    "PORTUGUÊS": "EU TENHO  VOMITADO",
+    "POMERANO": "IK HÄW KOTST",
+    "NOME_AUDIO": "10_ik_haw_kotst"
+  },
+  {
+    "PORTUGUÊS": "EU ESTOU RESFRIADO",
+    "POMERANO": "IK BÜN FORKÜLT",
+    "NOME_AUDIO": "11_ik_bun_forkult"
+  },
+  {
+    "PORTUGUÊS": " EU TENHO DIFICULDADE DE RESPIRAR",
+    "POMERANO": "IK HÄW DIFIKULTEIT TAUM LUFT HÅLEN",
+    "NOME_AUDIO": "12_ik_haw_difikulteit_taum_luft_halen"
+  },
+  {
+    "PORTUGUÊS": "  EU ESTOU ME SENTINDO TONTO",
+    "POMERANO": "IK BEFIJN MIJ DÜÜSCH",
+    "NOME_AUDIO": "13_ik_befijn_mij_duusch"
+  },
+  {
+    "PORTUGUÊS": " SOU...",
+    "POMERANO": "IK BÜN...",
+    "NOME_AUDIO": "14_ik_bun"
+  },
+  {
+    "PORTUGUÊS": "CARDÍACO",
+    "POMERANO": "HÄRTSKRANK",
+    "NOME_AUDIO": "15_hartskrank"
+  },
+  {
+    "PORTUGUÊS": "ASMÁTICO",
+    "POMERANO": "ASTMATISCH",
+    "NOME_AUDIO": "16_astmatisch"
+  },
+  {
+    "PORTUGUÊS": "DIABÉTICO",
+    "POMERANO": "SUKERKRANK",
+    "NOME_AUDIO": "17_sukerkrank"
+  },
+  {
+    "PORTUGUÊS": " SOU ALÉRGICO A...",
+    "POMERANO": "IK HÄW ALERGI FON...",
+    "NOME_AUDIO": "18_ik_haw_alergi_fon"
+  },
+  {
+    "PORTUGUÊS": " ANTIBIÓTICOS",
+    "POMERANO": "ANTIBIOTIKUMS",
+    "NOME_AUDIO": "19_antibiotikums"
+  },
+  {
+    "PORTUGUÊS": "INSULINA",
+    "POMERANO": "INSULIN",
+    "NOME_AUDIO": "20_insulin"
+  },
+  {
+    "PORTUGUÊS": "ASPIRINA",
+    "POMERANO": "ASPIRIN",
+    "NOME_AUDIO": "21_aspirin"
+  },
+  {
+    "PORTUGUÊS": "PENICILINA",
+    "POMERANO": "PENICILIN",
+    "NOME_AUDIO": "22_penicilin"
+  },
+  {
+    "PORTUGUÊS": "PÓLEN",
+    "POMERANO": "BLAUMESTOF",
+    "NOME_AUDIO": "23_blaumestof"
+  },
+  {
+    "PORTUGUÊS": " DOR NAS COSTAS",
+    "POMERANO": "RÖIGEWAIDÅG",
+    "NOME_AUDIO": "24_roigewaidag"
+  },
+  {
+    "PORTUGUÊS": "GARGANTA INFLAMADA",
+    "POMERANO": "HALS ENTSÜNDUNG",
+    "NOME_AUDIO": "25_hals_entsundung"
+  },
+  {
+    "PORTUGUÊS": "DOR DE ESTÔMAGO",
+    "POMERANO": "MÅGEWAIDÅG",
+    "NOME_AUDIO": "26_magewaidag"
+  },
+  {
+    "PORTUGUÊS": "DOR DE BARRIGA",
+    "POMERANO": "BUUKWAIDÅG",
+    "NOME_AUDIO": "27_buukwaidag"
+  },
+  {
+    "PORTUGUÊS": "  DOR DE DENTE",
+    "POMERANO": "TÄÄNEWAIDÅG",
+    "NOME_AUDIO": "28_taanewaidag"
+  },
+  {
+    "PORTUGUÊS": "OUVIDO INFLAMADO",
+    "POMERANO": "OUREENTSÜNDUNG",
+    "NOME_AUDIO": "29_oureentsundung"
+  },
+  {
+    "PORTUGUÊS": "DOR DE OUVIDO",
+    "POMERANO": "OURESTEEKEN",
+    "NOME_AUDIO": "30_ouresteeken"
+  },
+  {
+    "PORTUGUÊS": "  CABELO",
+    "POMERANO": "HÅR",
+    "NOME_AUDIO": "31_har"
+  },
+  {
+    "PORTUGUÊS": "  CABEÇA",
+    "POMERANO": "KOP",
+    "NOME_AUDIO": "32_kop"
+  },
+  {
+    "PORTUGUÊS": "  FACE",
+    "POMERANO": "GESICHT",
+    "NOME_AUDIO": "33_gesicht"
+  },
+  {
+    "PORTUGUÊS": " OLHO",
+    "POMERANO": "OUG",
+    "NOME_AUDIO": "34_oug"
+  },
+  {
+    "PORTUGUÊS": "  ORELHA",
+    "POMERANO": "OUR",
+    "NOME_AUDIO": "35_our"
+  },
+  {
+    "PORTUGUÊS": " BOCA",
+    "POMERANO": "MUUL",
+    "NOME_AUDIO": "36_muul"
+  },
+  {
+    "PORTUGUÊS": " DENTES",
+    "POMERANO": "TÄÄNE",
+    "NOME_AUDIO": "37_taane"
+  },
+  {
+    "PORTUGUÊS": " NARIZ",
+    "POMERANO": "NÄÄS",
+    "NOME_AUDIO": "38_naas"
+  },
+  {
+    "PORTUGUÊS": "NUCA",
+    "POMERANO": "GENIK",
+    "NOME_AUDIO": "39_genik"
+  },
+  {
+    "PORTUGUÊS": "PESCOÇO",
+    "POMERANO": "HALS",
+    "NOME_AUDIO": "40_hals"
+  },
+  {
+    "PORTUGUÊS": "CORAÇÃO",
+    "POMERANO": "HÄRTS",
+    "NOME_AUDIO": "41_harts"
+  },
+  {
+    "PORTUGUÊS": "  MÃO ",
+    "POMERANO": "HAND",
+    "NOME_AUDIO": "42_hand"
+  },
+  {
+    "PORTUGUÊS": "   BRAÇO",
+    "POMERANO": "ARM",
+    "NOME_AUDIO": "43_arm"
+  },
+  {
+    "PORTUGUÊS": "  DEDO",
+    "POMERANO": "FINGER",
+    "NOME_AUDIO": "44_finger"
+  },
+  {
+    "PORTUGUÊS": " UNHA",
+    "POMERANO": "FINGERNÅGEL",
+    "NOME_AUDIO": "45_fingernagel"
+  },
+  {
+    "PORTUGUÊS": "  PEITO",
+    "POMERANO": "BORST",
+    "NOME_AUDIO": "46_borst"
+  },
+  {
+    "PORTUGUÊS": " CINTURA",
+    "POMERANO": "HÜFT",
+    "NOME_AUDIO": "47_huft"
+  },
+  {
+    "PORTUGUÊS": "  ESTOMAGO",
+    "POMERANO": "MÅG",
+    "NOME_AUDIO": "48_mag"
+  },
+  {
+    "PORTUGUÊS": " COXA",
+    "POMERANO": "KÜÜL",
+    "NOME_AUDIO": "49_kuul"
+  },
+  {
+    "PORTUGUÊS": "  PERNA",
+    "POMERANO": "BAIR",
+    "NOME_AUDIO": "50_bair"
+  },
+  {
+    "PORTUGUÊS": " PÉ",
+    "POMERANO": "FAUT",
+    "NOME_AUDIO": "51_faut"
+  },
+  {
+    "PORTUGUÊS": " MÚSCULO",
+    "POMERANO": "MUSKEL",
+    "NOME_AUDIO": "52_muskel"
+  },
+  {
+    "PORTUGUÊS": " PELE",
+    "POMERANO": "FEL",
+    "NOME_AUDIO": "53_fel"
+  },
+  {
+    "PORTUGUÊS": " CORPO",
+    "POMERANO": "KÖRPER",
+    "NOME_AUDIO": "54_korper"
+  },
+  {
+    "PORTUGUÊS": "SOBRANCELHA",
+    "POMERANO": "OUGENBRÅN",
+    "NOME_AUDIO": "55_ougenbran"
+  },
+  {
+    "PORTUGUÊS": "PÁLPEBRA",
+    "POMERANO": "OUGENDEKEL",
+    "NOME_AUDIO": "56_ougendekel"
+  },
+  {
+    "PORTUGUÊS": "CÍLIO",
+    "POMERANO": "OUGENDEKELSHÅR",
+    "NOME_AUDIO": "57_ougendekelshar"
+  },
+  {
+    "PORTUGUÊS": "JOELHO",
+    "POMERANO": "KNAI",
+    "NOME_AUDIO": "58_knai"
+  },
+  {
+    "PORTUGUÊS": "OMBRO",
+    "POMERANO": "SCHULLER",
+    "NOME_AUDIO": "59_schuller"
+  },
+  {
+    "PORTUGUÊS": "BARRIGA",
+    "POMERANO": "BUUK",
+    "NOME_AUDIO": "60_buuk"
+  },
+  {
+    "PORTUGUÊS": "COSTAS",
+    "POMERANO": " RÖIGE",
+    "NOME_AUDIO": "61_roige"
+  }
+]

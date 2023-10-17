@@ -1,0 +1,62 @@
+[
+  {
+    "PORTUGUÊS": "JANEIRO",
+    "POMERANO": "JANUAR",
+    "NOME_AUDIO": "8_januar"
+  },
+  {
+    "PORTUGUÊS": "FEVEREIRO",
+    "POMERANO": "FEBRUAR",
+    "NOME_AUDIO": "9_februar"
+  },
+  {
+    "PORTUGUÊS": "MARÇO",
+    "POMERANO": "MÄRTS",
+    "NOME_AUDIO": "10_marts"
+  },
+  {
+    "PORTUGUÊS": "ABRIL",
+    "POMERANO": "APRIL",
+    "NOME_AUDIO": "11_april"
+  },
+  {
+    "PORTUGUÊS": "MAIO",
+    "POMERANO": "MAI",
+    "NOME_AUDIO": "12_mai"
+  },
+  {
+    "PORTUGUÊS": "JUNHO",
+    "POMERANO": "JUNI",
+    "NOME_AUDIO": "13_juni"
+  },
+  {
+    "PORTUGUÊS": "JULHO",
+    "POMERANO": "JULI",
+    "NOME_AUDIO": "14_juli"
+  },
+  {
+    "PORTUGUÊS": "AGOSTO",
+    "POMERANO": "AUGUST",
+    "NOME_AUDIO": "15_august"
+  },
+  {
+    "PORTUGUÊS": "SETEMBRO",
+    "POMERANO": "SEPTEMBER",
+    "NOME_AUDIO": "16_september"
+  },
+  {
+    "PORTUGUÊS": "OUTUBRO",
+    "POMERANO": "OKTOBER",
+    "NOME_AUDIO": "17_oktober"
+  },
+  {
+    "PORTUGUÊS": "NOVEMBRO",
+    "POMERANO": "NOVEMBER",
+    "NOME_AUDIO": "18_november"
+  },
+  {
+    "PORTUGUÊS": "DEZEMBRO",
+    "POMERANO": "DECEMBER",
+    "NOME_AUDIO": "19_december"
+  }
+]

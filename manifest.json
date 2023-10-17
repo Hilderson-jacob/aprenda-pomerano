@@ -1,0 +1,29 @@
+{
+  "short_name": "Aprenda Pomerano",
+  "name": "Aprenda Pomerano",
+  "icons": [
+    {
+      "src": "/app-pomerano/img/icon_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/app-pomerano/img/icon_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/app-pomerano/img/icon_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ff0b00",
+  "display": "standalone",
+  "theme_color": "#0975F9",
+  "description": "Aprenda Pomerano em qualquer lugar!",
+  "start_url": "/app-pomerano/",
+  "orientation": "portrait",
+  "id": "marcelopiske.github.io/app-pomerano/",
+  "lang": "pt"
+}

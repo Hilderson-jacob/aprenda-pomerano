@@ -1,0 +1,147 @@
+[
+  {
+    "PORTUGUES": "SIM",
+    "POMERANO": "JÅ",
+    "NOME_AUDIO": "01_ja"
+  },
+  {
+    "PORTUGUES": "NÃO",
+    "POMERANO": "NEI",
+    "NOME_AUDIO": "02_nei"
+  },
+  {
+    "PORTUGUES": "OBRIGADO",
+    "POMERANO": "DANKESCHÖIN",
+    "NOME_AUDIO": "03_dankeschoin"
+  },
+  {
+    "PORTUGUES": "POR FAVOR",
+    "POMERANO": "TAUM GEFALE",
+    "NOME_AUDIO": "04_taum_gefale"
+  },
+  {
+    "PORTUGUES": "NÃO HÁ PROBLEMA",
+    "POMERANO": "IS KAIR PROBLEM",
+    "NOME_AUDIO": "05_is_kair_problem"
+  },
+  {
+    "PORTUGUES": "FAZ FAVOR",
+    "POMERANO": "MÅK TAUM GEFALE",
+    "NOME_AUDIO": "06_mak_taum_gefale"
+  },
+  {
+    "PORTUGUES": "DESCULPE",
+    "POMERANO": "FORGEEW MIJ",
+    "NOME_AUDIO": "07_forgeew_mij"
+  },
+  {
+    "PORTUGUES": "COM LICENÇA, POSSO ENTRAR?",
+    "POMERANO": "KAN IK RINER KOOME?",
+    "NOME_AUDIO": "08_kan_ik_riner_koome"
+  },
+  {
+    "PORTUGUES": "SEM PROBLEMA ",
+    "POMERANO": "KAIR PROBLEM",
+    "NOME_AUDIO": "09_kair_problem"
+  },
+  {
+    "PORTUGUES": "EU NÃO SEI",
+    "POMERANO": "IK WAIT NI",
+    "NOME_AUDIO": "10_ik_wait_ni"
+  },
+  {
+    "PORTUGUES": "VOCE ME ENTENDE?",
+    "POMERANO": "FORSTÄIST DUU MIJ?",
+    "NOME_AUDIO": "11_forstaist_duu_mij"
+  },
+  {
+    "PORTUGUES": "EU ENTENDO",
+    "POMERANO": "IK  FORSTÅ",
+    "NOME_AUDIO": "12_ik_forsta"
+  },
+  {
+    "PORTUGUES": "EU NÃO ENTENDO",
+    "POMERANO": "IK FORSTÅ NI",
+    "NOME_AUDIO": "13_ik_forsta_ni"
+  },
+  {
+    "PORTUGUES": "DE NADA",
+    "POMERANO": "DÅRFOIR NI",
+    "NOME_AUDIO": "14_darfoir_ni"
+  },
+  {
+    "PORTUGUES": "O QUÊ?",
+    "POMERANO": "WAT?",
+    "NOME_AUDIO": "15_wat"
+  },
+  {
+    "PORTUGUES": "QUAL?",
+    "POMERANO": "WAT FON?",
+    "NOME_AUDIO": "16_wat_fon"
+  },
+  {
+    "PORTUGUES": "ONDE?",
+    "POMERANO": "WOO?",
+    "NOME_AUDIO": "17_woo"
+  },
+  {
+    "PORTUGUES": "QUANTO?",
+    "POMERANO": "WOO FEEL",
+    "NOME_AUDIO": "18_woo_feel"
+  },
+  {
+    "PORTUGUES": "EM QUE?",
+    "POMERANO": "WOAN",
+    "NOME_AUDIO": "19_woan"
+  },
+  {
+    "PORTUGUES": "QUANDO?",
+    "POMERANO": "WONAIR",
+    "NOME_AUDIO": "20_wonair"
+  },
+  {
+    "PORTUGUES": "DE QUE?",
+    "POMERANO": "WOFON",
+    "NOME_AUDIO": "21_wofon"
+  },
+  {
+    "PORTUGUES": "PARA QUE?",
+    "POMERANO": "WOFOIR",
+    "NOME_AUDIO": "22_wofoir"
+  },
+  {
+    "PORTUGUES": "PARA ONDE?",
+    "POMERANO": "WOHEN",
+    "NOME_AUDIO": "23_wohen"
+  },
+  {
+    "PORTUGUES": "DE ONDE?",
+    "POMERANO": "WOHEER",
+    "NOME_AUDIO": "24_woheer"
+  },
+  {
+    "PORTUGUES": "PELO QUE?",
+    "POMERANO": "WORÜM",
+    "NOME_AUDIO": "25_worum"
+  },
+  {
+    "PORTUGUES": "PARA QUÊ?",
+    "POMERANO": "WOTAU",
+    "NOME_AUDIO": "26_wotau"
+  },
+  {
+    "PORTUGUES": "SOBRE QUE?",
+    "POMERANO": "WOUP",
+    "NOME_AUDIO": "27_woup"
+  },
+  {
+    "PORTUGUES": "DENTRO DE QUE?",
+    "POMERANO": "WOIN",
+    "NOME_AUDIO": "28_woin"
+  },
+  {
+    "PORTUGUES": "POR QUE MOTIVO?",
+    "POMERANO": "WOWEEGEN",
+    "NOME_AUDIO": "29_woweegen"
+  }
+]

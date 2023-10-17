@@ -1,0 +1,77 @@
+[
+  {
+    "PORTUGUES": "  SOCORRO",
+    "POMERANO": "HÜLP",
+    "NOME_AUDIO": "1_hulp"
+  },
+  {
+    "PORTUGUES": "FOGO",
+    "POMERANO": "FÜÜR",
+    "NOME_AUDIO": "2_fuur"
+  },
+  {
+    "PORTUGUES": "  LADRÃO",
+    "POMERANO": "SPITSBUUB",
+    "NOME_AUDIO": "3_spitsbuub"
+  },
+  {
+    "PORTUGUES": " STOP",
+    "POMERANO": "STOP",
+    "NOME_AUDIO": "4_stop"
+  },
+  {
+    "PORTUGUES": " VÁ-SE EMBORA!",
+    "POMERANO": "GÅ WEG!",
+    "NOME_AUDIO": "5_ga_weg"
+  },
+  {
+    "PORTUGUES": " CUIDADO",
+    "POMERANO": "PASS UP",
+    "NOME_AUDIO": "6_pass_up"
+  },
+  {
+    "PORTUGUES": " VOCÊ ESTA BEM?",
+    "POMERANO": " ALES GAUD MIT DIJ?",
+    "NOME_AUDIO": "7_ales_gaud_mit_dij"
+  },
+  {
+    "PORTUGUES": " CHAME UMA AMBULÂNCIA",
+    "POMERANO": "RAUP AIN AMBULANS",
+    "NOME_AUDIO": "8_raup_ain_ambulans"
+  },
+  {
+    "PORTUGUES": "  CHAME UM MÉDICO",
+    "POMERANO": "RAUP AINE DOKTER",
+    "NOME_AUDIO": "9_raup_aine_dokter"
+  },
+  {
+    "PORTUGUES": "CHAME A POLICIA",
+    "POMERANO": "RAUP DAI POLISS",
+    "NOME_AUDIO": "10_raup_dai_poliss"
+  },
+  {
+    "PORTUGUES": " ESTOU PERDIDO",
+    "POMERANO": "IK BÜN FORLÅRE",
+    "NOME_AUDIO": "11_ik_bun_forlare"
+  },
+  {
+    "PORTUGUES": "EU PERDI A MINHA  BOLSA",
+    "POMERANO": "IK HÄW MIJN TASCH FORLÅRE",
+    "NOME_AUDIO": "12_ik_haw_mijn_tasch_forlare"
+  },
+  {
+    "PORTUGUES": "EU PERDI O MEU PASSAPORTE",
+    "POMERANO": "IK  HÄW MIJNE PASSPORT FORLÅRE",
+    "NOME_AUDIO": "13_ik_haw_mijne_passport_forlare"
+  },
+  {
+    "PORTUGUES": "EU FUI ROUBADO",
+    "POMERANO": "IK BÜN BIJSTOOLE WOURE",
+    "NOME_AUDIO": "14_ik_bun_bijstoole_woure"
+  },
+  {
+    "PORTUGUES": "  PODE AJUDAR-ME?",
+    "POMERANO": "KANST DUU MIJ HELPE?",
+    "NOME_AUDIO": "15_kanst_duu_mij_helpe"
+  }
+]

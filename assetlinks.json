@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.marcelopiske.twa",
+      "sha256_cert_fingerprints":
+        ["68:83:1F:D4:14:16:D2:00:55:DE:9D:9A:2F:23:BD:01:94:34:1A:96:35:F7:21:0F:00:92:77:32:BC:85:95:70"]
+    }
+  }
+]

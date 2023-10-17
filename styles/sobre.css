@@ -1,0 +1,24 @@
+p {
+    text-align: justify;
+    color: white
+}
+.patrocinio p {
+    margin-bottom: 1rem;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.text-content {
+    padding: 2.5vw;
+}
+
+img {
+    object-fit: cover;
+    width: 95vw;
+}
+ul {
+    color: white;
+}

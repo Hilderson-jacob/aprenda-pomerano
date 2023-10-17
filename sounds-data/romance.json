@@ -1,0 +1,137 @@
+[
+  {
+    "PORTUGUES": " POSSO SENTAR-ME AQUI?",
+    "POMERANO": "KAN IK MIJ HIJR HENSETE?",
+    "NOME_AUDIO": "01_kan_ik_mij_hijr_hensete"
+  },
+  {
+    "PORTUGUES": "POSSO OFERECER-LHE UMA BEBIDA?",
+    "POMERANO": "KAN IK DIJ AIR GEDRÄNK  ANBAIRE?",
+    "NOME_AUDIO": "02_kan_ik_dij_air_gedrank_anbaire"
+  },
+  {
+    "PORTUGUES": "ADORAVA IR",
+    "POMERANO": "WÄIR GEIRN HENGÅE",
+    "NOME_AUDIO": "03_wair_geirn_hengae"
+  },
+  {
+    "PORTUGUES": "NÃO, OBRIGADO",
+    "POMERANO": "NEI, DANKESCHÖIN",
+    "NOME_AUDIO": "04_nei_dankeschoin"
+  },
+  {
+    "PORTUGUES": "NÃO ESTOU INTERESSADO",
+    "POMERANO": "IK BÜN NI INTERESSIJRT",
+    "NOME_AUDIO": "05_ik_bun_ni_interessijrt"
+  },
+  {
+    "PORTUGUES": " TENHO IMENSO PRAZER",
+    "POMERANO": "HÄW GROUT LUST",
+    "NOME_AUDIO": "06_haw_grout_lust"
+  },
+  {
+    "PORTUGUES": "DEIXA-ME",
+    "POMERANO": "LÅT MIJ",
+    "NOME_AUDIO": "07_lat_mij"
+  },
+  {
+    "PORTUGUES": "VOCÊ É LINDA",
+    "POMERANO": "DUU BÜST SEIR HÜBSCH",
+    "NOME_AUDIO": "08_duu_bust_seir_hubsch"
+  },
+  {
+    "PORTUGUES": "VOCÊ LINDO",
+    "POMERANO": "DUU BÜST SEIR FAIN",
+    "NOME_AUDIO": "09_duu_bust_seir_fain"
+  },
+  {
+    "PORTUGUES": "VOCÊ É ESPECIAL.",
+    "POMERANO": "DUU BÜST SPECIAL",
+    "NOME_AUDIO": "10_duu_bust_special"
+  },
+  {
+    "PORTUGUES": "VOCÊ É ATRAENTE",
+    "POMERANO": "DUU BÜST SEIR ATRAKTIV",
+    "NOME_AUDIO": "11_duu_bust_seir_atraktiv"
+  },
+  {
+    "PORTUGUES": "VOCÊ TEM MUITO CHARME",
+    "POMERANO": "DUU HÄST FEELE CHARM",
+    "NOME_AUDIO": "12_duu_hast_feele_charm"
+  },
+  {
+    "PORTUGUES": "EU SINTO ALGO POR VOCÊ.",
+    "POMERANO": "IK FORNEM IRGEND WAT OIWER DIJ",
+    "NOME_AUDIO": "13_ik_fornem_irgend_wat_oiwer_dij"
+  },
+  {
+    "PORTUGUES": "  AMO-TE",
+    "POMERANO": "IK LIJB DIJ",
+    "NOME_AUDIO": "14_ik_lijb_dij"
+  },
+  {
+    "PORTUGUES": " POSSO DAR-TE UM BEIJO?",
+    "POMERANO": "KAN IK DIJ AINE PUSS GEEWE?",
+    "NOME_AUDIO": "15_kan_ik_dij_aine_puss_geewe"
+  },
+  {
+    "PORTUGUES": " VOCÊ TEM NAMORADO?",
+    "POMERANO": "HÄST DUU AINE BRUUDMAN?",
+    "NOME_AUDIO": "16_hast_duu_aine_bruudman"
+  },
+  {
+    "PORTUGUES": "VOCÊ TEM NAMORADA?",
+    "POMERANO": "HÄST DUU AIN BRUUD?",
+    "NOME_AUDIO": "17_hast_duu_ain_bruud"
+  },
+  {
+    "PORTUGUES": " VOCÊ TEM EMAIL?",
+    "POMERANO": "HÄST DUU E-MAIL?",
+    "NOME_AUDIO": "18_hast_duu_e_mail"
+  },
+  {
+    "PORTUGUES": "PODES DAR-ME O TEU NÚMERO DE TELEFONE?",
+    "POMERANO": "KANST DUU MIJ DIJN TELEFONNUMER GEEWE?",
+    "NOME_AUDIO": "19_kanst_duu_mij_dijn_telefonnumer_geewe"
+  },
+  {
+    "PORTUGUES": "  É CASADO?",
+    "POMERANO": "BÜST DUU FORFRIJGT?",
+    "NOME_AUDIO": "20_bust_duu_forfrijgt"
+  },
+  {
+    "PORTUGUES": "   SOU....",
+    "POMERANO": "IK BÜN...",
+    "NOME_AUDIO": "21_ik_bun"
+  },
+  {
+    "PORTUGUES": "  SOLTEIRO",
+    "POMERANO": "LERG UN   LOUS / LEDIG",
+    "NOME_AUDIO": "22_lerg_un_lous_ledig"
+  },
+  {
+    "PORTUGUES": "  COMPROMETIDO (A)",
+    "POMERANO": "NI ALAIN (E)",
+    "NOME_AUDIO": "23_ni_alain"
+  },
+  {
+    "PORTUGUES": "CASADO",
+    "POMERANO": "FORFRIJCHT",
+    "NOME_AUDIO": "24_forfrijcht"
+  },
+  {
+    "PORTUGUES": "  DIVORCIADO",
+    "POMERANO": "UUTANANER",
+    "NOME_AUDIO": "25_uutananer"
+  },
+  {
+    "PORTUGUES": "   VIÚVO",
+    "POMERANO": "WITKEIRL",
+    "NOME_AUDIO": "26_witkeirl"
+  },
+  {
+    "PORTUGUES": " VIÚVA",
+    "POMERANO": "WITFRUUG",
+    "NOME_AUDIO": "27_witfruug"
+  }
+]
