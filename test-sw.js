@@ -1,4 +1,4 @@
-const PATH = "/app-pomerano"
+const PATH = "/aprenda-pomerano"
 
 function getDirs() {
   const fs = require('fs');

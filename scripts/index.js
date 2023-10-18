@@ -1,7 +1,7 @@
 //document.documentElement.requestFullscreen()
 
 /* if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js', { scope: '/app-pomerano/' })
+    navigator.serviceWorker.register('/sw.js', { scope: '/aprenda-pomerano/' })
         .then(function (reg) {
             // registration worked
             console.log('Registration succeeded. Scope is ' + reg.scope);
