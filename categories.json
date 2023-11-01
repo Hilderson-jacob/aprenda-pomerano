@@ -237,7 +237,7 @@
             },
             {
               "PORTUGUES": "ONDE VOCÊ MORA?",
-              "POMERANO": "WOO WOONST DUU?",
+              "POMERANO": "WOO WÅNST DUU?",
               "NOME_AUDIO": "14_woo_woonst_duu"
             },
             {
@@ -440,7 +440,7 @@
             },
             {
               "PORTUGUES": "SOLTEIRO",
-              "POMERANO": "LERG UN   LOUS / LEDIG",
+              "POMERANO": "LERG UN LOOS / LEDIG",
               "NOME_AUDIO": "22_lerg_un_lous_ledig"
             },
             {
@@ -460,7 +460,7 @@
             },
             {
               "PORTUGUES": "VIÚVO",
-              "POMERANO": "WITKEIRL",
+              "POMERANO": "WITKËRL",
               "NOME_AUDIO": "26_witkeirl"
             },
             {
@@ -703,7 +703,7 @@
             },
             {
               "PORTUGUES": "SALSICHA",
-              "POMERANO": "SALSIJCHE",
+              "POMERANO": "SAUCISS",
               "NOME_AUDIO": "42_SAUCISS"
             },
             {
@@ -748,7 +748,7 @@
             },
             {
               "PORTUGUES": "BOLO",
-              "POMERANO": "KUUCHEN",
+              "POMERANO": "KUCHEN",
               "NOME_AUDIO": "51_kuuchen"
             },
             {
@@ -989,7 +989,7 @@
             },
             {
               "PORTUGUES": "VOCÊ TEM OUTRAS OPÇÕES?",
-              "POMERANO": "HÄST DUU ANDRER OPTIONE?",
+              "POMERANO": "HÄST DUU ANERD OPTIONE?",
               "NOME_AUDIO": "17_hast_duu_andrer_optione"
             },
             {
@@ -1013,7 +1013,7 @@
               "NOME_AUDIO": "21_kan_ik_dai_fiskalnot_bekoome"
             },
             {
-              "PORTUGUES": "QUERIA UM REEMBOLSO",
+              "PORTUGUES": "QUERO UM REEMBOLSO",
               "POMERANO": "IK WIL TRÖÖGBETÅLT HÄWE",
               "NOME_AUDIO": "22_ik_wil_troigbetalt_hawe"
             },
@@ -1114,7 +1114,7 @@
             },
             {
               "PORTUGUES": "BOTA",
-              "POMERANO": "STÄWEL",
+              "POMERANO": "STÄÄWEL",
               "NOME_AUDIO": "42_stawel"
             },
             {
@@ -1337,7 +1337,7 @@
             },
             {
               "PORTUGUES": "DOI-ME AQUI",
-              "POMERANO": "DÄIT MIJ HIJR WAI",
+              "POMERANO": "DAT DÄIT MIJ HIJR WAI",
               "NOME_AUDIO": "4_dait_mij_hijr_wai"
             },
             {
@@ -1352,7 +1352,7 @@
             },
             {
               "PORTUGUES": "TENHO FEBRE",
-              "POMERANO": "IK HÄW FEIWER",
+              "POMERANO": "IK HÄW FËWER",
               "NOME_AUDIO": "7_ik_haw_feiwer"
             },
             {
@@ -1377,7 +1377,7 @@
             },
             {
               "PORTUGUES": "EU TENHO DIFICULDADE DE RESPIRAR",
-              "POMERANO": "IK HÄW DIFIKULTEIT TAUM LUFT HÅLEN",
+              "POMERANO": "IK HÄW DIFIKULTËT TAUM LUFT HÅLEN",
               "NOME_AUDIO": "12_ik_haw_difikulteit_taum_luft_halen"
             },
             {
@@ -1437,7 +1437,7 @@
             },
             {
               "PORTUGUES": "DOR NAS COSTAS",
-              "POMERANO": "RÖIGEWAIDÅG",
+              "POMERANO": "RÖÖGEWAIDÅG",
               "NOME_AUDIO": "24_roigewaidag"
             },
             {
@@ -1462,12 +1462,12 @@
             },
             {
               "PORTUGUES": "OUVIDO INFLAMADO",
-              "POMERANO": "OUREENTSÜNDUNG",
+              "POMERANO": "OOREENTSÜNDUNG",
               "NOME_AUDIO": "29_oureentsundung"
             },
             {
               "PORTUGUES": "DOR DE OUVIDO",
-              "POMERANO": "OURESTEEKEN",
+              "POMERANO": "OORESTEEKEN",
               "NOME_AUDIO": "30_ouresteeken"
             },
             {
@@ -1592,17 +1592,17 @@
             },
             {
               "PORTUGUES": "SOBRANCELHA",
-              "POMERANO": "OUGENBRÅN",
+              "POMERANO": "OOGENBRÅN",
               "NOME_AUDIO": "55_ougenbran"
             },
             {
               "PORTUGUES": "PÁLPEBRA",
-              "POMERANO": "OUGENDEKEL",
+              "POMERANO": "OOGENDEKEL",
               "NOME_AUDIO": "56_ougendekel"
             },
             {
               "PORTUGUES": "CÍLIO",
-              "POMERANO": "OUGENDEKELSHÅR",
+              "POMERANO": "OOGENDEKELSHÅR",
               "NOME_AUDIO": "57_ougendekelshar"
             },
             {
@@ -1612,7 +1612,7 @@
             },
             {
               "PORTUGUES": "OMBRO",
-              "POMERANO": "SCHULLER",
+              "POMERANO": "SCHUULER",
               "NOME_AUDIO": "59_schuller"
             },
             {
@@ -1622,7 +1622,7 @@
             },
             {
               "PORTUGUES": "COSTAS",
-              "POMERANO": "RÖIGE",
+              "POMERANO": "RÖÖGE",
               "NOME_AUDIO": "61_roige"
             }
           ]
