@@ -9,8 +9,7 @@
     flex-wrap: wrap;
     align-items: center;
     gap: 2%;
-    /* grid-template-columns: 15% auto; */
-    font-size: 2rem;
+    font-size: 6vw;
     background-color: var(--color-primary-variant);
     color: var(--color-white);
     padding: 1rem;
@@ -81,11 +80,11 @@
 }
 
 #back-arrow {
-    font-size: 5rem;
+    font-size: 8vw;
 }
 
 #back-arrow-info {
-    font-size: 5rem;
+    font-size: 8vw;
 }
 /* @media screen and (max-width: 720px) {
     .container {
