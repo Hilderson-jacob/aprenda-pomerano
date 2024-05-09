@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Cotidiano",
+    "categoria": "COTIDIANO",
     "detalhes": {
       "imagem": "1_comum.jpg",
       "sub_categoria": [
@@ -29,7 +29,7 @@
             },
             {
               "PORTUGUES": "NÃO HÁ PROBLEMA",
-              "POMERANO": "DAT IS KAIR PROBLEM",
+              "POMERANO": "DAT IS KAIR PROBLËM",
               "NOME_AUDIO": "5_DAT_IS_KAIR_PROBLEM"
             },
             {
@@ -44,13 +44,13 @@
             },
             {
               "PORTUGUES": "COM LICENÇA, POSSO ENTRAR?",
-              "POMERANO": "KAN IK RINER KÅME?",
-              "NOME_AUDIO": "8_KAN_IK_RINER_KAME"
+              "POMERANO": "DÖRW IK RINERKÅME?",
+              "NOME_AUDIO": "8_DÖRW_IK_RINERKÅME"
             },
             {
               "PORTUGUES": "SEM PROBLEMA ",
-              "POMERANO": "KAIR PROBLEM",
-              "NOME_AUDIO": "9_KAIR_PROBLEM"
+              "POMERANO": "DAT IS KAIR PROBLËM",
+              "NOME_AUDIO": "9_DAT_IS_KAIR_PROBLËM"
             },
             {
               "PORTUGUES": "EU NÃO SEI",
@@ -74,8 +74,8 @@
             },
             {
               "PORTUGUES": "DE NADA",
-              "POMERANO": "DÅRFOIR NI",
-              "NOME_AUDIO": "14_DARFOR_NI"
+              "POMERANO": "DÅRFOR NI",
+              "NOME_AUDIO": "14_DÅRFOR_NI"
             },
             {
               "PORTUGUES": "O QUÊ?",
@@ -94,7 +94,7 @@
             },
             {
               "PORTUGUES": "QUANTO?",
-              "POMERANO": "WOFEEL",
+              "POMERANO": "WOO FEEL",
               "NOME_AUDIO": "18_woo_feel"
             },
             {
@@ -163,7 +163,7 @@
     }
   },
   {
-    "categoria": "Saudações",
+    "categoria": "SAUDAÇÕES",
     "detalhes": {
       "imagem": "2_saudacoes.jpg",
       "sub_categoria": [
@@ -177,13 +177,13 @@
             },
             {
               "PORTUGUES": "MUITO PRAZER",
-              "POMERANO": "GAUD DIJ KENELËRE",
-              "NOME_AUDIO": "02_gaud_dij_keneleire"
+              "POMERANO": "DAT IS GAUD DIJ KENELËRE",
+              "NOME_AUDIO": "2_DAT_IS_GAUD_DIJ_KENELËRE"
             },
             {
               "PORTUGUES": "PRAZER EM CONHECER VOCÊ TAMBÉM",
-              "POMERANO": "IS UK GAUD DIJ KENELËRE",
-              "NOME_AUDIO": "03_is_uk_gaud_dij_keneleire"
+              "POMERANO": "DAT IS UK GAUD DIJ KENELËRE",
+              "NOME_AUDIO": "3_DAT_IS_UK_GAUD_DIJ_KENELËRE"
             },
             {
               "PORTUGUES": "QUAL É O SEU NOME?",
@@ -197,7 +197,7 @@
             },
             {
               "PORTUGUES": "COMO ESTÁ?",
-              "POMERANO": "WOO GÄIT?",
+              "POMERANO": "WOO GÄIT'T?",
               "NOME_AUDIO": "06_woo_gait"
             },
             {
@@ -222,8 +222,8 @@
             },
             {
               "PORTUGUES": "TENHO ... ANOS",
-              "POMERANO": "IK BÜN... JÅRE",
-              "NOME_AUDIO": "11_ik_bun_jare"
+              "POMERANO": "IK BÜN... JÅRE ULD",
+              "NOME_AUDIO": "11_IK_BÜN..._JÅRE_ULD"
             },
             {
               "PORTUGUES": "DE ONDE VOCÊ É?",
@@ -326,7 +326,7 @@
     }
   },
   {
-    "categoria": "Relacionamento",
+    "categoria": "RELACIONAMENTO",
     "detalhes": {
       "imagem": "3_romance.jpg",
       "sub_categoria": [
@@ -390,13 +390,13 @@
             },
             {
               "PORTUGUES": "VOCÊ TEM MUITO CHARME",
-              "POMERANO": "DUU HÄST FEELE CHARM",
+              "POMERANO": "DUU HÄST FEEL CHARM",
               "NOME_AUDIO": "12_duu_hast_feele_charm"
             },
             {
               "PORTUGUES": "EU SINTO ALGO POR VOCÊ.",
-              "POMERANO": "IK FORNEM IRGEND WAT OIWER DIJ",
-              "NOME_AUDIO": "13_ik_fornem_irgend_wat_oiwer_dij"
+              "POMERANO": "IK FORNEEM IRGENDWAT OIWER DIJ",
+              "NOME_AUDIO": "13_IK_FORNEEM_IRGENDWAT_OIWER_DIJ"
             },
             {
               "PORTUGUES": "AMO-TE",
@@ -440,8 +440,8 @@
             },
             {
               "PORTUGUES": "SOLTEIRO",
-              "POMERANO": "LERG UN LOOS / LEDIG",
-              "NOME_AUDIO": "22_lerg_un_lous_ledig"
+              "POMERANO": "UNFORFRIJGT",
+              "NOME_AUDIO": "22_UNFORFRIJGT"
             },
             {
               "PORTUGUES": "COMPROMETIDO (A)",
@@ -455,8 +455,8 @@
             },
             {
               "PORTUGUES": "DIVORCIADO",
-              "POMERANO": "UUTANANER",
-              "NOME_AUDIO": "25_uutananer"
+              "POMERANO": "UUTAINANER",
+              "NOME_AUDIO": "25_UUTAINANER"
             },
             {
               "PORTUGUES": "VIÚVO",
@@ -489,7 +489,7 @@
     }
   },
   {
-    "categoria": "Alimentação",
+    "categoria": "ALIMENTAÇÃO",
     "detalhes": {
       "imagem": "4_comer.jpg",
       "sub_categoria": [
@@ -498,12 +498,12 @@
           "audios": [
             {
               "PORTUGUES": "PODE-ME RECOMENDAR UM RESTAURANTE?",
-              "POMERANO": "KANST DUU MIJ AINE RESTAURANT FOIRSTEELE?",
+              "POMERANO": "KANST DUU MIJ AINE RESTAURANT FOIRSTELE?",
               "NOME_AUDIO": "01_kanst_duu_mij_aine_restaurant_foirsteele"
             },
             {
               "PORTUGUES": "UMA MESA PARA DOIS, POR FAVOR",
-              "POMERANO": "AINE DISCH FOR TWAI,TAUM GEFALE",
+              "POMERANO": "AINE DISCH FOR TWAI, TAUM GEFALE",
               "NOME_AUDIO": "02_aine_disch_for_twai_taum_gefale"
             },
             {
@@ -533,7 +533,7 @@
             },
             {
               "PORTUGUES": "POSSO PEDIR UM PRATO DAQUELE?",
-              "POMERANO": "KAN IK SOONE TELER FORLANGE?",
+              "POMERANO": "KAN IK SOO'NE TELER FORLANGE?",
               "NOME_AUDIO": "08_kan_ik_soone_teeler_forlange"
             },
             {
@@ -568,12 +568,12 @@
             },
             {
               "PORTUGUES": "ACEITAM SÓ DINHEIRO EM ESPÉCIE?",
-              "POMERANO": "NEEME JIJ BLOUS BÅRGILD AN?",
+              "POMERANO": "NEEME JIJ BLOOS BÅRGILD AN?",
               "NOME_AUDIO": "15_neeme_jij_blous_bargild_an"
             },
             {
               "PORTUGUES": "POUCA  COMIDA",
-              "POMERANO": "WENIG EETEN",
+              "POMERANO": "WËNIG EETEN",
               "NOME_AUDIO": "16_wenig_eeten"
             },
             {
@@ -583,17 +583,17 @@
             },
             {
               "PORTUGUES": "ALMOÇAR",
-              "POMERANO": "MIRDAGEETEN",
+              "POMERANO": "MIRDAG EETE",
               "NOME_AUDIO": "18_mirdageeten"
             },
             {
               "PORTUGUES": "JANTA",
-              "POMERANO": "ÅWENDBROUD",
+              "POMERANO": "ÅWENDBROOD",
               "NOME_AUDIO": "19_awendbroud"
             },
             {
               "PORTUGUES": "SALADA",
-              "POMERANO": "SALAD",
+              "POMERANO": "SALAAD",
               "NOME_AUDIO": "20_salad"
             },
             {
@@ -672,18 +672,18 @@
               "NOME_AUDIO": "35_huinerflaisch"
             },
             {
-              "PORTUGUES": "PATO",
-              "POMERANO": "AABEL",
-              "NOME_AUDIO": "36_aabel"
+              "PORTUGUES": "CARNE DE PATO",
+              "POMERANO": "ARBELFLAISCH",
+              "NOME_AUDIO": "36_ARBELFLAISCH"
             },
             {
-              "PORTUGUES": "PATA",
-              "POMERANO": "EEND",
-              "NOME_AUDIO": "37_eend"
+              "PORTUGUES": "CARNE DE PATA",
+              "POMERANO": "EENDEFLAISCH",
+              "NOME_AUDIO": "37_EENDEFLAISCH"
             },
             {
               "PORTUGUES": "PATO ASSADO",
-              "POMERANO": "GEBRÅRTAABEL",
+              "POMERANO": "GEBRÅRT ARBEL",
               "NOME_AUDIO": "38_GEBRÅRTARBEL"
             },
             {
@@ -787,7 +787,7 @@
     }
   },
   {
-    "categoria": "Emergência",
+    "categoria": "EMERGÊNCIA",
     "detalhes": {
       "imagem": "5_emergencia.jpg",
       "sub_categoria": [
@@ -826,8 +826,8 @@
             },
             {
               "PORTUGUES": "VOCÊ ESTA BEM?",
-              "POMERANO": "ALES GAUD MIT DIJ?",
-              "NOME_AUDIO": "7_ales_gaud_mit_dij"
+              "POMERANO": "IS DAT ALES GAUD MIT DIJ?",
+              "NOME_AUDIO": "7_IS_DAT_ALES_GAUD_MIT_DIJ"
             },
             {
               "PORTUGUES": "CHAME UMA AMBULÂNCIA",
@@ -856,8 +856,8 @@
             },
             {
               "PORTUGUES": "EU PERDI O MEU PASSAPORTE",
-              "POMERANO": "IK  HÄW MIJNE RËSSCHIJN FORLÅRE",
-              "NOME_AUDIO": "13_IK_HÄW_MIJNE_RËSSCHIJN_FORLÅRE"
+              "POMERANO": "IK HÄW MIJNE PASSPORT FORLÅRE",
+              "NOME_AUDIO": "13_IK_HÄW_MIJNE_PASSPORT_FORLÅRE"
             },
             {
               "PORTUGUES": "EU FUI ROUBADO",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "categoria": "Compras",
+    "categoria": "COMPRAS",
     "detalhes": {
       "imagem": "6_compras.jpg",
       "sub_categoria": [
@@ -934,8 +934,8 @@
             },
             {
               "PORTUGUES": "QUAIS AS CORES QUE VOCÊ TEM?",
-              "POMERANO": "WAT FON FARWE HÄST DUU?",
-              "NOME_AUDIO": "06_watfon_farwe_hast_duu"
+              "POMERANO": "WAT FOR FARWE HÄST DUU?",
+              "NOME_AUDIO": "6 WAT FOR FARWE HÄST DUU"
             },
             {
               "PORTUGUES": "EU POSSO PROVAR?",
@@ -949,13 +949,13 @@
             },
             {
               "PORTUGUES": "VESTE BEM",
-              "POMERANO": "PAST GAUD",
-              "NOME_AUDIO": "09_past_gaud"
+              "POMERANO": "DAT PASST GAUD",
+              "NOME_AUDIO": "9 DAT PASST GAUD"
             },
             {
               "PORTUGUES": "NÃO CABE",
-              "POMERANO": "PAST NI",
-              "NOME_AUDIO": "10_past_ni"
+              "POMERANO": "DAT PASST NI",
+              "NOME_AUDIO": "10 DAT PASST NI"
             },
             {
               "PORTUGUES": "EU QUERO COMPRAR ESTE",
@@ -984,8 +984,8 @@
             },
             {
               "PORTUGUES": "PODE ME DAR UMA SACOLA, POR FAVOR?",
-              "POMERANO": "KANST DUU MIJ AINE SAK GEEWE,TAUM GEFALE?",
-              "NOME_AUDIO": "16_KANST_DUU_MIJ_AINE_SAK_GEEW_TAUM_GEFALE"
+              "POMERANO": "KANST DUU MIJ AINE PLASTIKSAK GEEWE,TAUM GEFALE?",
+              "NOME_AUDIO": "16 KANST DUU MIJ AINE PLASTIKSAK GEEWE,TAUM GEFALE"
             },
             {
               "PORTUGUES": "VOCÊ TEM OUTRAS OPÇÕES?",
@@ -1004,8 +1004,8 @@
             },
             {
               "PORTUGUES": "UM RECIBO, POR FAVOR ",
-              "POMERANO": "AIN UPWIJSUNG, TAUM GEFALE",
-              "NOME_AUDIO": "20_AIN_UPWIJSUNG_TAUM_GEFALE"
+              "POMERANO": "AIN KWITUNG, TAUM GEFALE",
+              "NOME_AUDIO": "20 AIN KWITUNG, TAUM GEFALE"
             },
             {
               "PORTUGUES": "EU POSSO PEGAR A NOTA FISCAL?",
@@ -1014,13 +1014,13 @@
             },
             {
               "PORTUGUES": "QUERO UM REEMBOLSO",
-              "POMERANO": "IK WIL TRÖÖGBETÅLT HÄWE",
-              "NOME_AUDIO": "22_ik_wil_troigbetalt_hawe"
+              "POMERANO": "IK WIL DAT TRÖÖGBETÅLT HÄWE",
+              "NOME_AUDIO": "22 IK WIL DAT TRÖÖGBETÅLT HÄWE"
             },
             {
               "PORTUGUES": "ESTOU PRA VER.",
-              "POMERANO": "IK WIL AS SAIE",
-              "NOME_AUDIO": "23_ik_wil_as_saie"
+              "POMERANO": "IK WIL AIS SAIE",
+              "NOME_AUDIO": "23 IK WIL AIS SAIE"
             },
             {
               "PORTUGUES": "COMPRAR",
@@ -1219,8 +1219,8 @@
             },
             {
               "PORTUGUES": "ÓCULOS DE SOL",
-              "POMERANO": "SÜNBRILE",
-              "NOME_AUDIO": "63_sunbrile"
+              "POMERANO": "SÜNEBRILE",
+              "NOME_AUDIO": "63 SÜNEBRILE"
             },
             {
               "PORTUGUES": "GRAVATA",
@@ -1289,13 +1289,13 @@
             },
             {
               "PORTUGUES": "CAMISA DE MANGA LONGA",
-              "POMERANO": "LANGMOOCHIGHEMD",
-              "NOME_AUDIO": "77_LANGMOOCHIGHEMD"
+              "POMERANO": "LANGMOOGIGHEMD",
+              "NOME_AUDIO": "77 LANGMOOGIGHEMD"
             },
             {
               "PORTUGUES": "CAMISA DE MANGA CURTA",
-              "POMERANO": "KORTMOOCHIGHEMD",
-              "NOME_AUDIO": "78_KORTMOOCHIGHEMD"
+              "POMERANO": "KORTMOOGIGHEMD",
+              "NOME_AUDIO": "78 KORTMOOGIGHEMD"
             },
             {
               "PORTUGUES": "PAGAR",
@@ -1303,7 +1303,7 @@
               "NOME_AUDIO": "79_BETÅLE"
             },
             {
-              "PORTUGUES": "EMPRESTADO",
+              "PORTUGUES": "EMPRESTAR",
               "POMERANO": "BORGE",
               "NOME_AUDIO": "80_BORGE"
             }
@@ -1313,7 +1313,7 @@
     }
   },
   {
-    "categoria": "Saúde",
+    "categoria": "SAÚDE E CORPO",
     "detalhes": {
       "imagem": "7_saude.jpg",
       "sub_categoria": [
@@ -1377,8 +1377,8 @@
             },
             {
               "PORTUGUES": "EU TENHO DIFICULDADE DE RESPIRAR",
-              "POMERANO": "IK HÄW DIFIKULTËT TAUM LUFT HÅLEN",
-              "NOME_AUDIO": "12_ik_haw_difikulteit_taum_luft_halen"
+              "POMERANO": "IK HÄW SWÅRHËT TAUM LUFT HÅLEN",
+              "NOME_AUDIO": "12_IK_HÄW_SWÅRHËT_TAUM_LUFT_HÅLEN"
             },
             {
               "PORTUGUES": "EU ESTOU ME SENTINDO TONTO",
@@ -1432,8 +1432,8 @@
             },
             {
               "PORTUGUES": "PÓLEN",
-              "POMERANO": "BLAUMESTOF",
-              "NOME_AUDIO": "23_blaumestof"
+              "POMERANO": "BLÖÖGPULVER",
+              "NOME_AUDIO": "23_BLÖÖGPULVER"
             },
             {
               "PORTUGUES": "DOR NAS COSTAS",
@@ -1631,7 +1631,7 @@
     }
   },
   {
-    "categoria": "Tempo",
+    "categoria": "TEMPO E MEDIDAS",
     "detalhes": {
       "imagem": "8_tempo.jpg",
       "sub_categoria": [
@@ -1755,8 +1755,8 @@
             },
             {
               "PORTUGUES": "OUTONO",
-              "POMERANO": "FRUCHTIJD",
-              "NOME_AUDIO": "22_fruchtijd"
+              "POMERANO": "FRUCHTTIJD/ HÄRWST",
+              "NOME_AUDIO": "22_FRUCHTTIJD_HÄRWST"
             },
             {
               "PORTUGUES": "INVERNO",
@@ -1795,7 +1795,7 @@
             },
             {
               "PORTUGUES": "DÉCADA",
-              "POMERANO": "JÅRSEEND",
+              "POMERANO": "JÅRSEENT",
               "NOME_AUDIO": "29_jarseend"
             },
             {
@@ -1850,7 +1850,7 @@
             },
             {
               "PORTUGUES": "ARROBA",
-              "POMERANO": "ROOBA",
+              "POMERANO": "ROOBE",
               "NOME_AUDIO": "40_ROOBA"
             },
             {
@@ -1914,7 +1914,7 @@
     }
   },
   {
-    "categoria": "Números",
+    "categoria": "NUMERAIS",
     "detalhes": {
       "imagem": "9_numeros.jpg",
       "sub_categoria": [
@@ -2287,7 +2287,7 @@
     }
   },
   {
-    "categoria": "Cores",
+    "categoria": "CORES",
     "detalhes": {
       "imagem": "10_cores.jpg",
       "sub_categoria": [
@@ -2415,7 +2415,7 @@
     }
   },
   {
-    "categoria": "Ferramentas",
+    "categoria": "FERRAMENTAS",
     "detalhes": {
       "imagem": "11_ferramentas.jpg",
       "sub_categoria": [
@@ -2628,7 +2628,7 @@
     }
   },
   {
-    "categoria": "Familia",
+    "categoria": "FAMILIA",
     "detalhes": {
       "imagem": "12_familia.jpg",
       "sub_categoria": [
@@ -2677,8 +2677,8 @@
             },
             {
               "PORTUGUES": "Genro",
-              "POMERANO": "Swigersoin",
-              "NOME_AUDIO": "9_Swigersoin"
+              "POMERANO": "Swigersoon",
+              "NOME_AUDIO": "9_Swigersoon"
             },
             {
               "PORTUGUES": "Irmã",
@@ -2722,8 +2722,8 @@
             },
             {
               "PORTUGUES": "Nora",
-              "POMERANO": "Swigertochter",
-              "NOME_AUDIO": "18_Swigertochter"
+              "POMERANO": "Swigerdochter",
+              "NOME_AUDIO": "18_Swigerdochter"
             },
             {
               "PORTUGUES": "Padrasto",
@@ -2757,8 +2757,8 @@
             },
             {
               "PORTUGUES": "Tataraneto(a)",
-              "POMERANO": "Ururenkelkind",
-              "NOME_AUDIO": "25_Ururenkelkind"
+              "POMERANO": "Ururenkelskind",
+              "NOME_AUDIO": "25_Ururenkelskind"
             },
             {
               "PORTUGUES": "Tataravó",
@@ -2791,7 +2791,7 @@
     }
   },
   {
-    "categoria": "Escola",
+    "categoria": "ESCOLA",
     "detalhes": {
       "imagem": "13_escola.jpg",
       "sub_categoria": [
@@ -2800,7 +2800,7 @@
           "audios": [
             {
               "PORTUGUES": "APAGADOR  DE QUADRO",
-              "POMERANO": "WANDTÅFELLÖSCHER",
+              "POMERANO": " WANDTÅFELLÖSCHER",
               "NOME_AUDIO": "1_WANDTÅFELLÖSCHER"
             },
             {
@@ -2825,7 +2825,7 @@
             },
             {
               "PORTUGUES": "BOLSINHA",
-              "POMERANO": "BLIJGSTIFTETASCH",
+              "POMERANO": " BLIJGSTIFTETASCH",
               "NOME_AUDIO": "6_BLIJGSTIFTETASCH"
             },
             {
@@ -2940,7 +2940,7 @@
             },
             {
               "PORTUGUES": "GLOBO TERRESTRE",
-              "POMERANO": "GLOBUS",
+              "POMERANO": "GLOOBUS",
               "NOME_AUDIO": "29_GLOBUS"
             },
             {
@@ -2950,7 +2950,7 @@
             },
             {
               "PORTUGUES": "GRAMPEADOR",
-              "POMERANO": "KLEMMASCCHIJN",
+              "POMERANO": "KLEMMASCHIJN",
               "NOME_AUDIO": "31_KLEMMASCCHIJN"
             },
             {
@@ -2980,8 +2980,8 @@
             },
             {
               "PORTUGUES": "MARCA TEXTO",
-              "POMERANO": "MARKIJRSTITF",
-              "NOME_AUDIO": "37_MARKIJRSTITF"
+              "POMERANO": "TEXTMARKER",
+              "NOME_AUDIO": "37_TEXTMARKER"
             },
             {
               "PORTUGUES": "PASTA",
@@ -3055,7 +3055,7 @@
             },
             {
               "PORTUGUES": "DITADO",
-              "POMERANO": "DIKTAD",
+              "POMERANO": "DIKTAT",
               "NOME_AUDIO": "52_DIKTAD"
             },
             {

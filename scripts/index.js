@@ -94,6 +94,3 @@ document.getElementById("back-arrow-info").addEventListener("click", e => {
 document.getElementById("info-app").addEventListener("click", e => {
     document.getElementById("info-modal").style.display = 'block'
 })
-
-
-
