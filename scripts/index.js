@@ -6,7 +6,7 @@ function estruture_data(jsondata) {
     p = 0
     for (let i of jsondata) {
         menu_html += `  <a data-category="${i.categoria}" data-position="${p}" onclick="estruture_audio(this)">
-                            <img src="${IMAGE_PATH + i.detalhes.imagem}">
+                            <img alt="" src="${IMAGE_PATH + i.detalhes.imagem}">
                             <span><b>${i.categoria}</b></span>
                         </a>`
         p += 1

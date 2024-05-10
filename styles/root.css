@@ -51,6 +51,11 @@ body {
     font-family: poppins, sans-serif;
     /* font-size: 0.88rem; */
     background: var(--color-dark);
+    -webkit-touch-callout: none;  /* iPhone OS, Safari */
+    -webkit-user-select: none;    /* Chrome, Safari 3 */
+    -khtml-user-select: none;     /* Safari 2 */
+    -moz-user-select: none;       /* Firefox */
+    -ms-user-select: none;        /* IE10+ */
     user-select: none;
     /* overflow: hidden; */
 }
