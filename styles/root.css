@@ -51,6 +51,6 @@ body {
     font-family: poppins, sans-serif;
     /* font-size: 0.88rem; */
     background: var(--color-dark);
-    /* user-select: none; */
+    user-select: none;
     /* overflow: hidden; */
 }
