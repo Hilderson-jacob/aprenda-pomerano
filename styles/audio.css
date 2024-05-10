@@ -29,8 +29,8 @@
 }
 
 #audio-modal .audios-content h2 {
-    font-size: 6vw;
-    /* margin-top: 5px; */
+    font-size: x-large;
+    margin-top: 5vw;
     color: #dce1eb;
 }
 .audios-content {
@@ -44,20 +44,20 @@
 }
 
 .audio {
-    width: 90vw;
+    width: 95%;
     transition: all 300ms ease;
     margin-top: 1rem;
     display: grid;
     grid-template-columns: 90% 10%;
-    font-size: 5vw;
-    padding: 1rem;
-    border-radius: 2rem;
+    font-size: large;
+    padding: .5rem;
+    border-radius: 1.5rem;
     background-color: rgba(255, 255, 255, 0.5);
     position: relative;
 }
 
 .pomer-text {
-    font-size: 5vw;
+    font-size: large;
     display: none;
     color: #0975F9;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
@@ -89,7 +89,7 @@
 }
 
 .audio .icon-play span {
-    font-size: 8vw;
+    font-size: xx-large;
     z-index: 1;
 }
 
@@ -119,4 +119,8 @@
         width: 100%;
     }
 
+}
+
+@media screen and (min-width: 720px) {
+    
 }

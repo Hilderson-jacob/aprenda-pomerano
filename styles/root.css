@@ -40,15 +40,17 @@
 
 html {
     font-size: 14px;
-    -webkit-tap-highlight-color: transparent;
+    /* -webkit-tap-highlight-color: transparent; */
 }
 
 body {
     width: 100vw;
     height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
     font-family: poppins, sans-serif;
-    font-size: 0.88rem;
+    /* font-size: 0.88rem; */
     background: var(--color-dark);
-    user-select: none;
-    overflow-x: hidden;
+    /* user-select: none; */
+    /* overflow: hidden; */
 }

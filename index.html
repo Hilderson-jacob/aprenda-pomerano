@@ -23,22 +23,11 @@
 </head>
 
 <body>
-    <script>
-        if ('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('./sw.js')
-            .then(function () {
-              console.log('service worker registered');
-            })
-            .catch(function () {
-              console.warn('service worker failed');
-            });
-        }
-    </script>
     <!-- Aprenda Pomerano -->
     <div class="container">
-        <nav>
+        <nav id="principal-nav">
             <span id="info-app" class="material-icons-sharp">info</span>
-            <div><b>Aprenda Pomerano</b></div>
+            <div><b id="page-title">Aprenda Pomerano</b></div>
         </nav>
         <div id="audio-modal">
             <nav id="nav-audios">
@@ -53,7 +42,7 @@
                 <span id="back-arrow-info" class="material-icons-sharp">arrow_back</span>
                 <div><b>Sobre o aplicativo</b></div>
             </nav>
-            <object data="./sobre.html" type="text/html"></object>
+            <object title="sobre" data="./sobre.html" type="text/html"></object>
         </div>
         <div id="elements-content" class="elements-content">
             <!-- inserido via JS function "estruture_data" -->
@@ -61,5 +50,15 @@
     </div>
     <script src="./scripts/index.js"></script>
 </body>
-
+<script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./sw.js')
+        .then(function () {
+          console.log('service worker registered');
+        })
+        .catch(function () {
+          console.warn('service worker failed');
+        });
+    }
+</script>
 </html>

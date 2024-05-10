@@ -11,6 +11,7 @@ function estruture_data(jsondata) {
                         </a>`
         p += 1
     }
+    menu_html += "<a></a>"
     elements_content.innerHTML = menu_html
 }
 
@@ -70,16 +71,21 @@ function estruture_audio(element) {
                 });
             };
         });
+    
+    document.getElementById("principal-nav").style.display = 'none'
 }
 
 document.getElementById("back-arrow").addEventListener("click", e => {
     modal.style.display = 'none'
+    document.getElementById("principal-nav").style.display = 'flex'
 })
 document.getElementById("back-arrow-info").addEventListener("click", e => {
     document.getElementById("info-modal").style.display = 'none'
+    document.getElementById("principal-nav").style.display = 'flex'
 })
 document.getElementById("info-app").addEventListener("click", e => {
     document.getElementById("info-modal").style.display = 'block'
+    document.getElementById("principal-nav").style.display = 'none'
 })
 
 
