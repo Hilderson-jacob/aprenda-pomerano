@@ -406,7 +406,7 @@
             {
               "PORTUGUES": "POSSO DAR-TE UM BEIJO?",
               "POMERANO": "KAN IK DIJ AINE PUSS GEEWE?",
-              "NOME_AUDIO": "15_KAN_IK_DIJ_AINE_PUSS_GEEWE"
+              "NOME_AUDIO": "15_kan_ik_dij_aine_puss_geewe"
             },
             {
               "PORTUGUES": "VOCÊ TEM NAMORADO?",
@@ -426,7 +426,7 @@
             {
               "PORTUGUES": "PODES DAR-ME O TEU NÚMERO DE TELEFONE?",
               "POMERANO": "KANST DUU MIJ DIJN TELEFONNUMER GEEWE?",
-              "NOME_AUDIO": "19_KANST_DUU_MIJ_DIJN_TELEFONNUMER_GEEWE"
+              "NOME_AUDIO": "19_kanst_duu_mij_dijn_telefonnumer_geewe"
             },
             {
               "PORTUGUES": "É CASADO?",
@@ -451,7 +451,7 @@
             {
               "PORTUGUES": "CASADO",
               "POMERANO": "FORFRIJCHT",
-              "NOME_AUDIO": "24_FORFRIJCHT"
+              "NOME_AUDIO": "24_forfrijcht"
             },
             {
               "PORTUGUES": "DIVORCIADO",
@@ -764,7 +764,7 @@
             {
               "PORTUGUES": "SOPA",
               "POMERANO": "SUP",
-              "NOME_AUDIO": "54_SUP"
+              "NOME_AUDIO": "54_sup"
             },
             {
               "PORTUGUES": "MEL",
@@ -779,7 +779,7 @@
             {
               "PORTUGUES": "SUCO ",
               "POMERANO": "SAFT",
-              "NOME_AUDIO": "57_SAFT"
+              "NOME_AUDIO": "57_saft"
             }
           ]
         }
@@ -995,12 +995,12 @@
             {
               "PORTUGUES": "VOCÊ PODE EMBRULHAR PARA MIM?",
               "POMERANO": "KANST DUU MIJ DAT INWIKLE?",
-              "NOME_AUDIO": "18_KANST_DUU_MIJ_DAT_INWIKLE"
+              "NOME_AUDIO": "18_kanst_duu_mij_dat_inwikle"
             },
             {
               "PORTUGUES": "VOCÊ PODE EMBRULHAR COMO PRESENTE?",
               "POMERANO": "KANST DUU DAT TAUM GESCHENK INWIKLE?",
-              "NOME_AUDIO": "19_KANST_DUU_DAT_TAUM_GESCHENK_INWIKLE"
+              "NOME_AUDIO": "19_kanst_duu_dat_taum_geschenk_inwikle"
             },
             {
               "PORTUGUES": "UM RECIBO, POR FAVOR ",
@@ -2234,7 +2234,7 @@
             {
               "PORTUGUES": "VIGÉSIMO",
               "POMERANO": "TWANSIGST",
-              "NOME_AUDIO": "62_TWANSIGST"
+              "NOME_AUDIO": "62_twansigst"
             },
             {
               "PORTUGUES": "TRIGÉSIMO",
@@ -2254,12 +2254,12 @@
             {
               "PORTUGUES": "SEXAGÉSIMO",
               "POMERANO": "SEECHTSIGST",
-              "NOME_AUDIO": "66_SEECHTSIGST"
+              "NOME_AUDIO": "66_seechtsigst"
             },
             {
               "PORTUGUES": "SEPTUAGÉSIMO",
               "POMERANO": "SIJBTSIGST",
-              "NOME_AUDIO": "67_SIJBTSIGST"
+              "NOME_AUDIO": "67_sijbtsigst"
             },
             {
               "PORTUGUES": "OCTOGÉSIMO",
