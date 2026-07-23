@@ -93,35 +93,60 @@ async function handlePlayAudio(e) {
     const card = document.getElementById(`card-${path}`);
     const displayBar = document.getElementById(`${path}-display`);
 
+    // 1. Reseta o áudio anterior, se houver
     if (currentAudio) {
         currentAudio.pause();
+        currentAudio.src = ""; // Corta o buffering imediatamente
         document.querySelectorAll('.audio').forEach(el => {
-            el.classList.remove('clicked');
+            el.classList.remove('clicked', 'loading');
             const bar = el.querySelector('.audio-display');
             if (bar) bar.style.animation = 'none';
         });
     }
 
-    card.classList.add('clicked');
+    // 2. Feedback Imediato: Mostra o ícone girando
+    card.classList.add('loading');
 
     try {
-        // Tão simples quanto isso! Se estiver offline, o sw.js vai interceptar e devolver o MP3!
         currentAudio = new Audio(audioUrl);
 
+        // Lida com a barra de progresso
         currentAudio.addEventListener('loadedmetadata', () => {
             displayBar.style.animation = 'none'; 
             void displayBar.offsetWidth; 
             displayBar.style.animation = `progressSlide ${currentAudio.duration}s linear forwards`;
+            // Pausa a animação até que realmente comece a tocar
+            displayBar.style.animationPlayState = 'paused'; 
+        });
+
+        // Caso a internet engasgue no meio da reprodução
+        currentAudio.addEventListener('waiting', () => {
+            card.classList.add('loading');
+            displayBar.style.animationPlayState = 'paused';
+        });
+
+        currentAudio.addEventListener('playing', () => {
+            card.classList.remove('loading');
+            displayBar.style.animationPlayState = 'running';
         });
 
         currentAudio.addEventListener('ended', () => {
-            card.classList.remove('clicked');
+            card.classList.remove('clicked', 'loading');
         });
 
-        currentAudio.play();
+        // 3. Tenta tocar o áudio. O await só libera quando o som sair na caixa!
+        await currentAudio.play();
+        
+        // 4. Sucesso! Tira o loading e aplica o estilo de 'tocando' (azul)
+        card.classList.remove('loading');
+        card.classList.add('clicked');
+
     } catch (error) {
-        console.error("Erro ao reproduzir:", error);
-        card.classList.remove('clicked');
+        console.error("Erro ao reproduzir o áudio:", error);
+        card.classList.remove('loading', 'clicked');
+        
+        // Opcional: Feedback visual de erro, alertando o usuário que falhou
+        alert("Não foi possível carregar o áudio. Verifique sua conexão se for o primeiro acesso.");
     }
 }
 

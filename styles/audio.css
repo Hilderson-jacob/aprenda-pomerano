@@ -132,3 +132,31 @@
     height: 100%;
     border: none;
 }
+
+/* =========================================
+   ESTADO DE CARREGAMENTO (LOADING)
+   ========================================= */
+
+/* Impede que o usuário clique várias vezes enquanto carrega */
+.audio.loading {
+    opacity: 0.8;
+    pointer-events: none; 
+}
+
+/* Esconde o ícone de play normal durante o loading */
+.audio.loading .material-icons-round {
+    display: none;
+}
+
+/* Cria um ícone de "Sincronização" girando */
+.audio.loading .icon-play::after {
+    content: "sync"; /* Ícone do Material Icons */
+    font-family: "Material Icons Round";
+    font-size: 24px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
