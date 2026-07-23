@@ -1,5 +1,5 @@
 // Mude esta versão SEMPRE que alterar CSS, JS ou HTML
-const APP_VERSION = 'v4'; 
+const APP_VERSION = 'v4.0.0'; 
 const CACHE_SHELL = `aprenda-pomerano-shell-${APP_VERSION}`;
 const CACHE_AUDIOS = `aprenda-pomerano-audios`; // SEM VERSÃO: Nunca será apagado automaticamente!
 
