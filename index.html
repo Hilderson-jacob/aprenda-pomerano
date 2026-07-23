@@ -66,12 +66,62 @@
 
     <script src="./scripts/index.js"></script>
     <script>
-        if ('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('./sw.js')
-            .then(() => console.log('Service Worker Registrado'))
-            .catch(() => console.warn('Falha no Service Worker'));
+    // Gerenciamento do Toast na UI
+    const toastContainer = document.getElementById('toast-container');
+    const toastMessage = document.getElementById('toast-message');
+    const toastProgress = document.getElementById('toast-progress');
+    const toastIcon = document.getElementById('toast-icon');
+    let hideToastTimeout;
+
+    function showToast(message, percent = 0, isComplete = false) {
+        toastContainer.classList.add('toast-visible');
+        toastMessage.textContent = message;
+        toastProgress.style.width = `${percent}%`;
+        
+        if (isComplete) {
+            toastIcon.textContent = 'check_circle';
+            toastIcon.classList.remove('spin');
+            toastProgress.style.background = 'var(--color-success, #41f1b6)';
+            
+            // Esconde automaticamente após 3 segundos
+            clearTimeout(hideToastTimeout);
+            hideToastTimeout = setTimeout(() => {
+                toastContainer.classList.remove('toast-visible');
+            }, 3000);
+        } else {
+            toastIcon.textContent = 'sync';
+            toastIcon.classList.add('spin');
         }
-    </script>
+    }
+
+    if ('serviceWorker' in navigator) {
+        // 1. Ouve as mensagens do Service Worker (Progresso do Download)
+        navigator.serviceWorker.addEventListener('message', event => {
+            if (event.data.type === 'DOWNLOAD_PROGRESS') {
+                const percent = (event.data.baixados / event.data.total) * 100;
+                showToast(`Baixando áudios offline (${event.data.baixados}/${event.data.total})`, percent);
+            } else if (event.data.type === 'DOWNLOAD_COMPLETE') {
+                showToast('Todos os áudios prontos para uso offline!', 100, true);
+            }
+        });
+
+        // 2. ATUALIZAÇÃO AUTOMÁTICA (O fim do Ctrl+Shift+R)
+        // Quando um novo sw.js é instalado, a página recarrega sozinha para exibir o layout novo
+        let isRefreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+            if (!isRefreshing) {
+                isRefreshing = true;
+                showToast('Aplicando nova atualização...', 100);
+                setTimeout(() => window.location.reload(), 1000); // Dá 1 segundo pra pessoa ler a mensagem
+            }
+        });
+
+        // 3. Registra o SW
+        navigator.serviceWorker.register('./sw.js')
+            .then(() => console.log('Service Worker Registrado e pronto!'))
+            .catch((err) => console.warn('Falha no Service Worker', err));
+    }
+</script>
 </body>
 <!-- Toast de Notificações Fixado no Rodapé -->
 <div id="toast-container" class="toast-hidden">
