@@ -1,126 +1,134 @@
-/* ===========dark theme variables ============ */
-.dark-theme-variables {
-    --color-background: #181a1e;
-    --color-white: #202528;
-    --color-dark: #edeffd;
-    --color-dark-variant: #a3bdcc;
-    --color-light: rgba(0, 0, 0, 0.4);
-    --box-shandow: 0 2rem 3rem var(--color-ligth);
-}
-#audio-modal {
-    display: none;
+.audios-content {
+    padding: 1.5rem;
     overflow-y: auto;
-    position: fixed;
-    z-index: 1;
-    width: 100vw;
-    height: 100vh;
-    background-color: #363949;
-    /* padding-bottom: .5rem; */
+    flex: 1;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 3rem; /* Espaço pro final da tela */
 }
 
-#audio-modal .audios-content {
-    margin-top: 6vh;
+.audios-content h2 {
+    font-size: 1.2rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 2rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-primary-light);
 }
 
-#audio-modal nav {
-    position: fixed;
-    margin-bottom: 5px;
+.audios-content h2:first-child {
+    margin-top: 0;
+}
+
+/* O NOVO CARD DE ÁUDIO */
+.audio {
+    position: relative;
+    background: var(--color-surface);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.2rem;
+    margin-bottom: 1rem;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    cursor: pointer;
+    overflow: hidden;
+    border: 2px solid transparent;
+    transition: var(--transition-fast);
+}
+
+.audio:hover {
+    border-color: var(--color-primary-light);
+}
+
+/* Estilo Ativo (Quando clica/toca) */
+.audio.clicked {
+    border-color: var(--color-primary);
+    background: #FAFCFF; /* Fundo levemente azulado */
+}
+
+/* Ícone de Play */
+.icon-play {
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    border-radius: 50%;
+    background: var(--color-primary-light);
+    color: var(--color-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: var(--transition-smooth);
     z-index: 2;
 }
 
-#audio-modal .audios-content h2 {
-    font-size: x-large;
-    margin-top: 5vw;
-    color: #dce1eb;
-}
-.audios-content {
-    /* margin-top: 2.5rem; */
-    padding: 1rem;
-    display: flex;
-    align-items: center;
-    row-gap: 2.5;
-    /* grid-template-columns: auto; */
-    flex-direction: column;
+.icon-play span {
+    font-size: 28px;
 }
 
-.audio {
-    width: 95%;
-    transition: all 300ms ease;
-    margin-top: 1rem;
-    display: grid;
-    grid-template-columns: 90% 10%;
-    font-size: large;
-    padding: .5rem;
-    border-radius: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.5);
-    position: relative;
+.audio:hover .icon-play {
+    transform: scale(1.05);
+}
+
+.audio.clicked .icon-play {
+    background: var(--color-primary);
+    color: white;
+    box-shadow: 0 4px 12px rgba(9, 117, 249, 0.3);
+}
+
+/* Textos do Player */
+.text {
+    flex: 1;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.text-pt {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--color-text-main);
+    transition: var(--transition-fast);
 }
 
 .pomer-text {
-    font-size: large;
-    display: none;
-    color: #0975F9;
-    border-top: 1px solid rgba(255, 255, 255, 0.5);
-
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    font-weight: 400;
+    transition: var(--transition-fast);
 }
 
-.text div:first-child {
-    width: 90%;
-    z-index: 1;
+.audio.clicked .text-pt {
+    color: var(--color-primary-dark);
 }
 
-.clicked {
-    transform: scale(1.03);
-    background-color: rgba(255, 255, 255, 0.8);
+.audio.clicked .pomer-text {
+    color: var(--color-text-pomerano);
+    font-weight: 600;
 }
 
-.clicked .pomer-text {
-    display: block;
-    z-index: 1;
-}
-
-.clicked .icon-play {
-    border-left: 1px solid white;
-}
-
-.audio .icon-play {
-    display: flex;
-    align-items: center;
-}
-
-.audio .icon-play span {
-    font-size: xx-large;
-    z-index: 1;
-}
-
-.none {
-    display: none;
-}
-
+/* Barra de Progresso Elegante (Fica no Rodapé do Card) */
 .audio-display {
     position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    background: var(--color-primary);
     width: 0%;
+    z-index: 1;
+    border-radius: 0 2px 2px 0;
 }
 
-.clicked .audio-display {
+@keyframes progressSlide {
+    from { width: 0%; }
+    to { width: 100%; }
+}
+
+.info-object {
+    width: 100%;
     height: 100%;
-    background-color: #0975f963;
-    border-radius: 2rem;
-    animation: crescent linear;
-    /* animation-duration: 2s; */
-}
-
-@keyframes crescent {
-    from {
-        width: 0%;
-    }
-
-    to {
-        width: 100%;
-    }
-
-}
-
-@media screen and (min-width: 720px) {
-    
+    border: none;
 }

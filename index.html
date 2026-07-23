@@ -1,64 +1,78 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
-    <link rel="icon" href="./img/icone-azul512x512.png" type="image/png">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- <meta name="theme-color" media="(prefers-color-scheme: dark)" content="black" /> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#0975F9" />
     <meta content='yes' name='apple-mobile-web-app-capable'/>
     <meta content='yes' name='mobile-web-app-capable'/>
 
-    <link rel="canonical" href="https://marcelopiske.github.io/aprenda-pomerano/">
+    <link rel="icon" href="./img/icone-azul512x512.png" type="image/png">
     <link rel="manifest" href="manifest.json">
     
-    <link rel="stylesheet" href="./styles/index.css">
     <link rel="stylesheet" href="./styles/root.css">
+    <link rel="stylesheet" href="./styles/index.css">
     <link rel="stylesheet" href="./styles/audio.css">
     
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="preload" as="style"
-        onload="this.onload=null;this.rel='stylesheet'">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
     <title>Aprenda Pomerano</title>
 </head>
 
 <body>
-    <!-- Aprenda Pomerano -->
-    <div class="container">
-        <nav id="principal-nav">
-            <span id="info-app" class="material-icons-sharp">info</span>
-            <div><b id="page-title">Aprenda Pomerano</b></div>
-        </nav>
-        <div id="audio-modal">
-            <nav id="nav-audios">
-                <span id="back-arrow" class="material-icons-sharp">arrow_back</span>
-                <div><b>Aprenda Pomerano</b></div>
-            </nav>
-            <div class="audios-content">
+    <!-- TELA PRINCIPAL -->
+    <div id="main-view" class="view active">
+        <header class="app-header">
+            <div>
+                <h1 id="page-title">Aprenda Pomerano</h1>
+                <p class="subtitle">Selecione uma categoria</p>
             </div>
-        </div>
-        <div id="info-modal">
-            <nav id="nav-info">
-                <span id="back-arrow-info" class="material-icons-sharp">arrow_back</span>
-                <div><b>Sobre o aplicativo</b></div>
-            </nav>
-            <object title="sobre" data="./sobre.html" type="text/html"></object>
-        </div>
-        <div id="elements-content" class="elements-content">
-            <!-- inserido via JS function "estruture_data" -->
+            <button id="info-app" class="icon-btn" aria-label="Sobre o app">
+                <span class="material-icons-round">info</span>
+            </button>
+        </header>
+        
+        <main id="elements-content" class="elements-grid">
+            <!-- Inserido via JS -->
+        </main>
+    </div>
+
+    <!-- TELA DE ÁUDIOS (MODAL) -->
+    <div id="audio-modal" class="view modal">
+        <header class="app-header">
+            <button id="back-arrow" class="icon-btn" aria-label="Voltar">
+                <span class="material-icons-round">arrow_back</span>
+            </button>
+            <h1 class="modal-title">Aprenda Pomerano</h1>
+        </header>
+        
+        <div class="audios-content">
+            <!-- Inserido via JS -->
         </div>
     </div>
+
+    <!-- TELA SOBRE O APP (MODAL) -->
+    <div id="info-modal" class="view modal">
+        <header class="app-header">
+            <button id="back-arrow-info" class="icon-btn" aria-label="Voltar">
+                <span class="material-icons-round">arrow_back</span>
+            </button>
+            <h1 class="modal-title">Sobre o aplicativo</h1>
+        </header>
+        <object title="sobre" data="./sobre.html" type="text/html" class="info-object"></object>
+    </div>
+
     <script src="./scripts/index.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('./sw.js')
+            .then(() => console.log('Service Worker Registrado'))
+            .catch(() => console.warn('Falha no Service Worker'));
+        }
+    </script>
 </body>
-<script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./sw.js')
-        .then(function () {
-          console.log('service worker registered');
-        })
-        .catch(function () {
-          console.warn('service worker failed');
-        });
-    }
-</script>
 </html>
+
+<!-- Prateado | Desessete | Novembro | Diabético -->
