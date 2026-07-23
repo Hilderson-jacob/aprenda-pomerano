@@ -1,6 +1,7 @@
-const CACHE_VERSION = 'v3';
-const CACHE_SHELL = `aprenda-pomerano-shell-${CACHE_VERSION}`;
-const CACHE_AUDIOS = `aprenda-pomerano-audios-${CACHE_VERSION}`;
+// Mude esta versão SEMPRE que alterar CSS, JS ou HTML
+const APP_VERSION = 'v4'; 
+const CACHE_SHELL = `aprenda-pomerano-shell-${APP_VERSION}`;
+const CACHE_AUDIOS = `aprenda-pomerano-audios`; // SEM VERSÃO: Nunca será apagado automaticamente!
 
 const APP_SHELL = [
     './',
@@ -13,56 +14,76 @@ const APP_SHELL = [
     './styles/audio.css',
     './styles/sobre.css',
     './scripts/index.js'
-    // Não precisamos listar as imagens manualmente, elas serão cacheadas no momento do uso (on-demand), 
-    // ou você pode adicioná-las aqui se quiser garantir logo no primeiro segundo.
 ];
 
-// 1. INSTALAÇÃO (Cria o Cache Base)
+// Função auxiliar para enviar mensagens para a tela (UI)
+async function sendMessageToUI(message) {
+    // includeUncontrolled permite enviar mensagens mesmo na primeira visita
+    const clients = await self.clients.matchAll({ includeUncontrolled: true });
+    clients.forEach(client => client.postMessage(message));
+}
+
+// 1. INSTALAÇÃO (Onde a mágica acontece)
 self.addEventListener('install', event => {
+    // Força o SW novo a assumir o controle imediatamente
+    self.skipWaiting(); 
+
     event.waitUntil(
         caches.open(CACHE_SHELL).then(cache => {
-            return cache.addAll(APP_SHELL).then(() => {
+            return cache.addAll(APP_SHELL).then(async () => {
                 
-                // MÁGICA: Baixa todos os áudios em segundo plano automaticamente!
-                // Ele lê o JSON sozinho e faz os downloads sem travar a tela do usuário.
-                fetch('./categories.json')
-                    .then(res => res.json())
-                    .then(data => {
-                        caches.open(CACHE_AUDIOS).then(audioCache => {
-                            data.forEach(categoria => {
-                                // Aproveita e faz cache da imagem da categoria
-                                cache.add(`./images/resized_images/${categoria.detalhes.imagem}`).catch(() => {});
-                                
-                                // Faz cache de todos os audios
-                                categoria.detalhes.sub_categoria.forEach(sub => {
-                                    sub.audios.forEach(audio => {
-                                        const audioUrl = `./sounds/${audio.NOME_AUDIO}.mp3`;
-                                        audioCache.match(audioUrl).then(res => {
-                                            if (!res) {
-                                                // Se não está no cache, baixa silenciosamente
-                                                fetch(audioUrl).then(netRes => {
-                                                    if (netRes.ok) audioCache.put(audioUrl, netRes);
-                                                }).catch(() => console.log('Aguardando internet para baixar áudios restantes.'));
-                                            }
-                                        });
-                                    });
-                                });
+                // Inicia o processo de download de áudios
+                try {
+                    const res = await fetch('./categories.json');
+                    const data = await res.json();
+                    const audioCache = await caches.open(CACHE_AUDIOS);
+                    
+                    let audiosParaBaixar = [];
+
+                    // Mapeia o que precisa ser baixado
+                    data.forEach(categoria => {
+                        categoria.detalhes.sub_categoria.forEach(sub => {
+                            sub.audios.forEach(audio => {
+                                audiosParaBaixar.push(`./sounds/${audio.NOME_AUDIO}.mp3`);
                             });
                         });
-                    }).catch(err => console.log('Erro ao ler JSON no SW:', err));
+                    });
+
+                    let total = audiosParaBaixar.length;
+                    let baixados = 0;
+
+                    // Baixa apenas o que não está no cache
+                    for (const audioUrl of audiosParaBaixar) {
+                        const cached = await audioCache.match(audioUrl);
+                        if (!cached) {
+                            const netRes = await fetch(audioUrl);
+                            if (netRes.ok) {
+                                await audioCache.put(audioUrl, netRes);
+                            }
+                        }
+                        baixados++;
+                        // Envia o progresso para a tela!
+                        sendMessageToUI({ type: 'DOWNLOAD_PROGRESS', baixados, total });
+                    }
+                    
+                    sendMessageToUI({ type: 'DOWNLOAD_COMPLETE' });
+
+                } catch (err) {
+                    console.error('Erro ao processar áudios no SW:', err);
+                }
             });
         })
     );
-    self.skipWaiting();
 });
 
-// 2. ATIVAÇÃO (Limpa caches antigos quando você atualizar o CACHE_VERSION)
+// 2. ATIVAÇÃO (Limpa apenas o Layout antigo, preserva os áudios)
 self.addEventListener('activate', event => {
     event.waitUntil(
         caches.keys().then(cacheNames => {
             return Promise.all(
                 cacheNames.map(name => {
-                    if (name !== CACHE_SHELL && name !== CACHE_AUDIOS) {
+                    // Apaga caches antigos do APP_SHELL, mas ignora o CACHE_AUDIOS
+                    if (name.startsWith('aprenda-pomerano-shell') && name !== CACHE_SHELL) {
                         return caches.delete(name);
                     }
                 })
@@ -72,23 +93,17 @@ self.addEventListener('activate', event => {
     self.clients.claim();
 });
 
-// 3. INTERCEPTAÇÃO (Estratégia Cache-First: Sempre tenta usar offline primeiro)
+// 3. INTERCEPTAÇÃO (Cache-First)
 self.addEventListener('fetch', event => {
     event.respondWith(
         caches.match(event.request).then(cachedResponse => {
-            // Se achou no cache (mesmo sem internet), retorna imediatamente!
-            if (cachedResponse) {
-                return cachedResponse;
-            }
+            if (cachedResponse) return cachedResponse;
 
-            // Se não estava no cache, tenta buscar na internet e já salva para a próxima
             return fetch(event.request).then(networkResponse => {
-                // Checa se a resposta é válida
                 if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
                     return networkResponse;
                 }
 
-                // Clona a resposta e salva no cache correto
                 const responseToCache = networkResponse.clone();
                 const targetCache = event.request.url.includes('.mp3') ? CACHE_AUDIOS : CACHE_SHELL;
                 

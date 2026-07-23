@@ -59,3 +59,67 @@
     /* font-size: 1.1rem; */
     font-weight: 600;
 }
+
+/* =========================================
+   TOAST DE PROGRESSO E ATUALIZAÇÕES
+   ========================================= */
+#toast-container {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%) translateY(150px); /* Escondido para baixo */
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.5rem;
+    width: 90%;
+    max-width: 400px;
+    z-index: 1000;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-left: 4px solid var(--color-primary);
+}
+
+#toast-container.toast-visible {
+    transform: translateX(-50%) translateY(0); /* Desliza para cima */
+}
+
+.toast-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#toast-icon {
+    color: var(--color-primary);
+    font-size: 28px;
+}
+
+#toast-icon.spin {
+    animation: spin 1s linear infinite;
+}
+
+.toast-text-area {
+    flex: 1;
+}
+
+#toast-message {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text-main);
+    margin-bottom: 6px;
+}
+
+.progress-bg {
+    width: 100%;
+    height: 6px;
+    background: var(--color-primary-light);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    width: 0%;
+    background: var(--color-primary);
+    transition: width 0.3s ease;
+}
